@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Turibius Rozario | Research</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <span class="header_ends"><a href="index.html">Turibius Rozario</a></span>
+            <nav>
+                <ul>
+                    <li><a href="research.html"><b>Research</b></a></li>
+                    <li><a href="UAVs.html">UAVs</a></li>
+                    <li><a href="coursesActivities.html">Courses and Activities</a></li>
+                    <li><a href="others.html">Other Projects</a></li>
+                </ul>
+            </nav>
+            <span class="header_ends"><a href="mailto:s175@umbc.edu">Email</a></span>
+        </header>
+        <div class="centered">
+            <h1>Research</h1>
+            <p>
+                I intend to pursue a PhD in Mechanical Engineering in the studies of 
+                performance optimization, 
+                process automation, 
+                energy conservation, and 
+                aeronautical systems. 
+                Although I am yet to decide on a focus, 
+                I am actively looking for summer research internships 
+                (in academia and industry) in any of the above fields and 
+                am currently in sustained lab during the academic year. 
+                My current or previous research experiences are listed below.
+            </p>
+            <h2>Parameter Optimization | Dr. Ankit Goel</h2>
+            <h3>November 2021 &mdash; Present</h3>
+            <p class="background">
+                Background: 
+                <a href="https://ankgoel.umbc.edu/">Dr. Ankit Goel</a>
+                is an assistant professor at UMBC.
+                He runs the Estimation, Control, and Learning Laboratory (ECLL)
+                in the Mechanical Engineering department.
+            </p>
+            <div class="fig">
+                <img
+                src="Images/Research-Goel-XOR.png"
+                alt="Plot of convergence of various training methods, in which
+                the Newton method outranks random search, which outranks gradient descent.">
+                Figure 1: Testing gradient free training methods
+                such as <code>fsolve</code> and random search method
+                against conventional gradient descent in approximating the XOR function
+                using a NN.
+            </div>
+            <p>
+                <!-- Under the Mechanical Engineering department at University of
+                Maryland, Baltimore County (UMBC), I implement various
+                optimization techniques, test them against existing solvers,
+                and aid in refining algorithms. This includes linear and
+                non-linear optimizers, and slicing novel optimizers into
+                machine learning frameworks such as Keras and Pytorch. -->
+                I implement and test various optimization techniques
+                to solve classical non-linear problems and train neural networks (NNs).
+                In particular, I have,
+                <ol>
+                    <li>Used conventional machine learning techniques to train NNs
+                        using both Keras and custom gradient descent,
+                    </li>
+                    <li>
+                        Illustrated the ability of gradient <i>free</i> methods,
+                        such as the Newtonian method and random search method,
+                        to surpass conventional gradient descent in training NNs,
+                        as shown in figure <a href="#gradientFree">1</a>,
+                    </li>
+                    <li>
+                        Tested the effect on inertial measurement units
+                        due to properties of accelerometers, gyroscopes, and magnetometers,
+                    </li>
+                    <li>
+                        And implemented a novel finite time algorithm
+                        in discreet problems such as NNs, 
+                        shown in figure <a href=#finiteTime>2</a>.
+                    </li>
+                </ol>
+            </p>
+            <!-- <p>
+                One of my current projects is testing a novel algorithm that is
+                shown to have finite time convergence for all linear problems
+                and certain non-linear problems. In other non-linear problems,
+                it has demonstrated to converge at a much faster rate than
+                current optimizers such as stochastic gradient descent and
+                Adam, as shown in figure 1.
+            </p> -->
+            <p>
+                Additionally, I had the opportunity to write on my work
+                or present on my research:
+                <ol>
+                    <li>
+                        A Tutorial on Neural Networks and Gradient-free
+                        Training (rejected, ACC 2023). <a href="https://doi.org/10.48550/arXiv.2211.17217">arXiv link</a>
+                    </li>
+                    <li>
+                        URCAD &mdash; Presented poster on neural networks and gradient-free training on UMBC's undergraduate research day.
+                        <a href="https://urcad.umbc.edu/abstract-2023/">Link to abstracts</a>
+                    </li>
+                    <li>
+                        Time accelerated algorithms.
+                        This was cancelled due to thresholding.
+                    </li>
+                    <li>
+                        Modelling dynamical systems using neural networks. (In progress)
+                    </li>
+                </ol>
+            </p>
+            <div class="fig">
+                <img
+                src="Images/Research-Goel-CostMNIST.png"
+                alt="Plot of convergence of various optimizers, in which
+                FTE outranks Adam, and Adam outranks SGD.">
+                Figure 2: Comparing training algorithm performance on MNIST dataset;
+                the finite time method was shown to outperform 
+                conventional adaptive momentum and stochastic gradient descent methods 
+                in this case.
+            </div>
+
+            <h2>Design of a Lab-Scale Ocean Wave-Powered Desalination System | Dr. James Van de Ven</h2>
+            <h3>Summer 2023 (REU)</h3>
+            <p class="background">
+                Background: 
+                <a href="https://cse.umn.edu/me/james-van-de-ven">Dr. James Van de Ven</a>
+                is a Mechanical Engineering professor at University of Minnesota.
+                He runs the Mechanical Energy & Power Systems Laboratory (MEPS)
+                with a focus on fluid power.
+            </p>
+            <div class="fig">
+                <img
+                src="Images/Research-MEPS-Schematic.png"
+                alt="Illustration of a wave energy based desalination system.
+                The kinetic energy of a large flap, hinged at the sea bed, is
+                used to drive a hydraulic system. The hydraulic system uses
+                seawater to transfer power, generate electricity, and produce
+                freshwater.">
+                Figure 3: Illustration of the core processes and elements in
+                the desalination system.
+            </div>
+            <p>
+                A self-powered and decentralized wave energy converter and desalination system
+                was proposed in prior work by the MEPS lab. The wave energy is harvested using a large
+                oscillating flap hinged at the sea bed, whose kinetic energy is then transferred into 
+                hydraulics; the pressurized seawater is used to generate electricity and freshwater. 
+                Figure <a href="#simpleIllustration">3</a> showcases these primary traits.
+            </p>
+            <p>
+                My role over the summer was to help scale this full-scale system to a lab-scale 
+                hardware-in-the-loop test system. With the help of my graduate mentor, Jeremy Simmons,
+                I:
+                <ol>
+                    <li>Used fluid equations, efficiency computations, and dimension constraints to size 
+                        the system.</li>
+                    <li>Identified parts required to construct the system and generated a bill of materials.</li>
+                    <li>Designed custom parts and fittings, and a draft assembly model.</li>
+                </ol>
+            </p>
+            <p>
+                Figure <a href="#cornerCondition">4</a> compares the maximum
+                required pressure differential to the achievable pressure differential based on the energy losses
+                through a specific servo valve; the maximum required flow rate is compared against
+                the achievable flow of the pump. Performance evaluations such as this helped determine
+                whether the combination of the chosen parts would be capable of simulating the motion
+                of the wave energy converter.
+            </p>
+            <p>
+                Three deliverables were produced during this research experience:
+                <ul>
+                    <li>Research poster, presented at SURE at University of Minnesota. 
+                        <a href="http://www.mrsec.umn.edu/_assets/pdf/REU-event-programs/SURE23.pdf">Link to abstracts.</a></li>
+                    <li>Extended abstract, which can be read <a href="Documents/umn_reu_extended_abstract.pdf">here</a></li>
+                    <li>Project hand-off memo, consisting of all research files and deliverables.</li>
+                </ul>
+            </p>
+            <div class="fig">
+                <img
+                src="Images/Research-MEPS-CornerCondition.png"
+                alt="X-axis is oil flow rate, y-axis is pressure differential across oil pump.
+                Plot consisting of three legends.
+                The first is the pressure differential available for the oil pump;
+                this curve starts at 4300 psi, and parabolically decreases.
+                The second is a cross indicating the system requirement.
+                This is located at the 3500 psi and 23 GPM location,
+                which is underneath the curve of pressure differential available.
+                The third is a vertical line indicating the maximum flow rate achievable (24 GPM).">
+                Figure 4: Maximum system requirements for pressure differential and flow rates compared
+                to the achievable pressure differential (4300 psi supply) and flow rate.
+            </div>
+        </div>
+    </body>
+</html>
