@@ -1,239 +1,320 @@
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Turibius Rozario | UAVs</title>
-		<link rel="stylesheet" href="styles.css">
-	</head>
-	<body>
-		<header>
-			<span class="header_ends"><a href="index.html">Turibius Rozario</a></span>
-			<nav>
-				<ul>
-					<li><a href="research.html">Research</a></li>
-					<li><a href="UAVs.html">UAVs</a></li>
-					<li><a href="coursesActivities.html">Courses and Activities</a></li>
-					<li><a href="others.html"><b>Other Projects</b></a></li>
-				</ul>
-			</nav>
-			<span class="header_ends"><a href="mailto:s175@umbc.edu">Email</a></span>
-		</header>
-		<div class="centered">
-			<h1>Other Projects</h1>
-			<h2>Keyboard Navigation Enhancement</h2>
-			<p>
-				Switching between typing and navigating is time-consuming,
-				since typing requires both hands to be on the keyboard,
-				while navigating requires the right hand to be either on the arrow keys
-				or the mouse. This is especially worse for laptop users.
-			</p>
-			<p>
-				To reduce the need of switching,
-				I produced a series of scripts that allows the keyboard to be used as
-				a mouse and a number pad. My work is hosted on GitHub here:
-			</p>
-			<p>
-				<b><a href="https://github.com/turibiusrozario/ProductivityEnhancement">
-					Productivity Enhancement Suite by Turibius Rozario
-				</a></b>.
-			</p>
-			<h2>Filament Dry Box</h2>
-				<div class="fig">
-					<img
-					src="Images/others-dry_box.jpg"
-					alt="Image of my filament dry box">
-					DIY filament dry box containing lightweight PLA,
-					PETG, TPU, and PLA+.
-				</div>
-			<p>
-				Since I print with PETG and sometimes with TPU,
-				and since my room has a humidifier,
-				I decided to create a DIY passive filament dry box,
-				so that the filaments can be quickly changed.
-			</p>
-			<p>
-				This dry box was made using an 18L waterproof box
-				with a PVC pipe as the spool holder. Nuts and bolts
-				held the 3D printed pipe holder in place,
-				and PTFE tube with coupler
-				was used to reduce moisture going into the box.
-				Silica gel packets were placed inside as a passive dryer.
-			</p>
-            <h2>Take Back Your Control: Android</h2>
-            <p>
-                If you use Android, it likely comes with bloatware ---
-                pre-installed apps that you do not use nor need. Worse, there
-                are applications running in the background that constantly
-                degrade battery life --- in particular, almost all of Google
-                services. Worst, the Android that you paid for will not be
-                supported nor last as much as you may want it to.
-            </p>
-            <p>
-                In search for making my cellphone battery last longer hours,
-                and the phone itself to last more years, I began the journey of
-                'De-Googling' my phone. This does not mean removing all Google
-                components. To me, it means utilizing as little closed-source
-                and power-hungry applications as possible, which apps made by
-                big tech tend to be. My process was as follows:
-                <ol>
-                    <li> Switching to an open-source OS that does not contain
-                        bloatware and major Google backends by default.
-                    <li> Utilizing open-source or minimal applications.
-                    <li> Regaining ability to use Google applications.
-                </ol>
-                <a href="https://divestos.org/misc/e.txt">Here</a> is a
-                comparison of some of the major open-source OS that does not
-                have tracking, and is Google free. If you use a Pixel device,
-                it is best to use <a
-                    href="https://grapheneos.org/">GrapheneOS</a>.
-                Otherwise, <a href="https://doc.e.foundation/devices">\/e\/</a>
-                is an option that is ready to use upon installations.
-                I personally use <a href="https://lineage.microg.org/">LineageOS
-                    for MicroG</a> since it allows me to utilize some required
-                Google Apps.
-            </p>
-			<p>
-				The very first installation is expected to be the hardest.
-				The process should be the same regardless of what Android you use:
-				<ol>
-					<li>
-						Backup all files: the easiest method is to directly connect
-						your phone to your computer, and copy all files that you have.
-						I additionally recommend going to each app and exporting any 
-						configurations that you may have (e.g. contacts, text messages,
-						authenticator codes, etc.). I also recommend having a list of
-						a list of apps you realistically use so that you can re-download 
-						them later.
-					</li>
-					<li>
-						Unlocking the bootloader: There are several existing online 
-						tutorials for unlocking the bootloader. <a href="https://youtu.be/ksbRMo00uTA">
-							Here
-						</a> is an example; despite being over 6 years old, the methodology
-						is applicable today. You can use the <a href="https://developer.android.com/tools/releases/platform-tools">
-							developer's page
-						</a> to download platform tools which will be needed as you follow
-						along any bootloader unlock video.
-					</li>
-					<li>
-						Once unlocked, you can follow <a href="https://wiki.lineageos.org/devices/">your 
-							specific device's instructions on how to install LineageOS
-						</a>. However, if you want LineageOS <em>for MicroG</em>, which allows 
-						better 'De-Googling' while still being able to use Google applications,
-						you should use the image file (.iso file) from <a href="https://download.lineage.microg.org/">
-							MicroG's website
-						</a> instead of Lineage's .iso file.
-						You will not have to install any additional files using this method.
-					</li>
-					<li>
-						After completing the reboot, check out F-Droid and all the interesting
-						things LineageOS for MicroG comes with! You will find many better and ad-free
-						alternatives to certain applications you used to use. Or you can use your backup 
-						to regain all your past files and re-download your past apps through
-						Aurora Store (which can be downloaded through F-Droid).
-					</li>
-				</ol>
-				It is possible to go even further and root your phone with 
-				<a href="https://topjohnwu.github.io/Magisk/install.html">Magisk</a>
-				which allows even greater customization such as significantly 
-				<a href="https://www.celsoazevedo.com/files/android/google-camera/">improved
-					camera quality</a>, 
-				<a href="https://github.com/di72nn/callrecorder-axet">access to call recording</a>, and 
-				<a href="https://github.com/MatteCarra/AccA">controlling how much your 
-					phone charges</a>
-				 (e.g., to increase longevity of your battery).
-			</p>
-            <p>
-                In terms of alternative applications, here are a couple that I enjoy:
-				<ul>
-					<li>
-						<a href="https://f-droid.org/en/packages/com.beemdevelopment.aegis/">Aegies Authenticator</a>
-						: An open source two-factor authentication application.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/com.apps.adrcotfas.goodtime/">Goodtime - Pomodoro Timer</a>
-						: The F-Droid version has premium services.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/net.cozic.joplin/">Joplin</a>
-						: Open source note-taking application that you can sync between computers
-						and upload to the cloud.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/org.kde.kdeconnect_tp/">KDE Connect</a>
-						: Links your phone to any other computer or phone to perform things
-						such as: file sharing, controlling the other device, sending messages through 
-						the other device, audio play/pause depending on phone calls, and more.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/fr.neamar.kiss/">KISS Launcher</a>
-						: Search based launcher to maximize start-ups and increase 
-						the rate by which you use your phone
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/app.organicmaps/">Organic Maps</a>
-						: Maps that is better than Google Maps for jogging and biking.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd</a>
-						: Google Maps alternative, especially for driving.
-					</li>
-					<li>
-						<a href="https://f-droid.org/en/packages/ch.protonvpn.android/">ProtonVPN</a>
-						: Free and one of the top rated VPNs.
-					</li>
-					<li>
-						More applications that you can find in
-						<a href="https://github.com/Psyhackological/AAA">AAA</a>'s website
-					</li>
-				</ul>
-            </p>
-			<h2>Useful Desktop Applications</h2>
-			<p>
-				Speaking of useful applications, here are some applications that
-				I have grown fond of over the years.
-			</p>
-			<h3>Cross-Platform Applications</h3>
-			<ul>
-				<li>
-					<a href="https://apps.ankiweb.net/">Anki</a> (Desktop and Phones):
-					Quizlet on steroids. Ask your friends in medical school if you need any convincing.
-				</li>
-				<li>
-					<a href="https://www.blender.org/">Blender</a> (Desktop):
-					Free and open-source 3D-Modelling tool with a massive community support.
-				</li>
-				<li>
-					<a href="draw.io">draw.io</a>:
-					A very easy-to-use and free diagram making software.
-				</li>
-				<li>
-					<a href="https://element.io/">Element</a>:
-					Basically Discord, but free, open-source, and ridiculously private. This is federated and encrypted,
-					so only you and your recipient have access to messages.
-				</li>
-				<li>
-					<a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a>:
-					The only major non-Chrome based browser. This is especially important since Firefox
-					supports ad-blocking better and there are numerous add-ons to significantly
-					upgrade performance (such as returning YouTube dislike counts,
-					removing YouTube ads, stronger privacy protection, etc.)
-				</li>
-				<li>
-					<a href="https://inkscape.org/">Inkscape</a>:
-					Free and open source vector drawing application. Extremely useful for drawing diagrams,
-					editing PDF files, and vector art.
-				</li>
-				<li>
-					<a href="https://joplinapp.org/help/install">Joplin</a>:
-					Minimal yet versatile note taking software with encryption and usability with ANY cloud storage 
-					(Google, OneDrive, Nextcloud, personal, etc.). This is similar to Obsidian, but is free and open sourced.
-				</li>
-				<li>
-					<a href="https://kdenlive.org/">Kdenlive</a>:
-					Easy to use and minimal video-editing software.
-				</li>
-			</ul>
-		</div>
-	</body>
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Turibius Rozario | UAVs</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<span class="header_ends"><a href="index.html">Turibius Rozario</a></span>
+<nav>
+<ul>
+    <li><a href="research.html">Research</a></li>
+    <li><a href="UAVs.html">UAVs</a></li>
+    <li><a href="coursesActivities.html">Courses and Activities</a></li>
+    <li><a href="others.html"><b>Other Projects</b></a></li>
+</ul>
+</nav>
+<span class="header_ends"><a href="mailto:s175@umbc.edu">Email</a></span>
+</header>
+
+<div class="centered">
+
+<h1>Other Projects</h1>
+
+<h2>Keyboard Navigation Enhancement</h2>
+
+<p>
+    Switching between typing and navigating is time-consuming, since typing
+    requires both hands to be on the keyboard, while navigating requires the
+    right hand to be either on the arrow keys or the mouse. This is especially
+    worse for laptop users.
+</p>
+<p>
+    To reduce the need of switching, I produced a series of scripts that allows
+    the keyboard to be used as a mouse and a number pad. My work is hosted on
+    GitHub here:
+</p>
+<p>
+    <b><a href="https://github.com/turibiusrozario/ProductivityEnhancement">
+        Productivity Enhancement Suite by Turibius Rozario
+    </a></b>.
+</p>
+
+<h2>Filament Dry Box</h2>
+
+    <div class="fig">
+        <img
+        src="Images/others-dry_box.jpg"
+        alt="Image of my filament dry box">
+        DIY filament dry box containing lightweight PLA, PETG, TPU, and PLA+.
+    </div>
+<p>
+    Since I print with PETG and sometimes with TPU, and since my room has a
+    humidifier, I decided to create a DIY passive filament dry box, so that the
+    filaments can be quickly changed.
+</p>
+<p>
+    This dry box was made using an 18L waterproof box with a PVC pipe as the
+    spool holder. Nuts and bolts held the 3D printed pipe holder in place, and
+    PTFE tube with coupler was used to reduce moisture going into the box.
+    Silica gel packets were placed inside as a passive dryer.
+</p>
+
+<h2>Take Back Your Control: Android</h2>
+
+<p>
+    If you use Android, it likely comes with bloatware --- pre-installed apps
+    that you do not use nor need. Worse, there are applications running in the
+    background that constantly degrade battery life --- in particular, almost
+    all of Google services. Worst, the Android that you paid for will not be
+    supported nor last as much as you may want it to.
+</p>
+<p>
+    In search for making my cellphone battery last longer hours, and the phone
+    itself to last more years, I began the journey of 'De-Googling' my phone.
+    This does not mean removing all Google components. To me, it means utilizing
+    as little closed-source and power-hungry applications as possible, which
+    apps made by big tech tend to be. My process was as follows:
+    <ol>
+    <li> Switching to an open-source OS that does not contain bloatware and
+        major Google backends by default.
+    <li> Utilizing open-source or minimal applications.
+    <li> Regaining ability to use Google applications.
+    </ol>
+    <a href="https://divestos.org/misc/e.txt">Here</a> is a comparison of some
+    of the major open-source OS that does not have tracking, and is Google free.
+    If you use a Pixel device, it is best to use <a
+    href="https://grapheneos.org/">GrapheneOS</a>. Otherwise, <a
+    href="https://doc.e.foundation/devices">\/e\/</a> is an option that is ready
+to use upon installations. I personally use <a
+    href="https://lineage.microg.org/">LineageOS for MicroG</a> since it allows
+me to utilize some required Google Apps.
+</p>
+<p>
+    The very first installation is expected to be the hardest. The process
+    should be the same regardless of what Android you use:
+    <ol>
+    <li>
+        Backup all files: the easiest method is to directly connect your phone
+        to your computer, and copy all files that you have. I additionally
+        recommend going to each app and exporting any configurations that you
+        may have (e.g. contacts, text messages, authenticator codes, etc.). I
+        also recommend having a list of a list of apps you realistically use so
+        that you can re-download them later.
+    </li>
+    <li>
+        Unlocking the bootloader: There are several existing online tutorials
+        for unlocking the bootloader. <a href="https://youtu.be/ksbRMo00uTA">
+            Here </a> is an example; despite being over 6 years old, the
+        methodology is applicable today. You can use the <a
+            href="https://developer.android.com/tools/releases/platform-tools">
+            developer's page </a> to download platform tools which will be
+        needed as you follow along any bootloader unlock video.
+    </li>
+    <li>
+        Once unlocked, you can follow <a
+            href="https://wiki.lineageos.org/devices/">your specific device's
+            instructions on how to install LineageOS </a>. However, if you want
+        LineageOS <em>for MicroG</em>, which allows better 'De-Googling' while
+        still being able to use Google applications, you should use the image
+        file (.iso file) from <a href="https://download.lineage.microg.org/">
+        MicroG's website </a> instead of Lineage's .iso file. You will not have
+    to install any additional files using this method.
+    </li>
+    <li>
+        After completing the reboot, check out F-Droid and all the interesting
+        things LineageOS for MicroG comes with! You will find many better and
+        ad-free alternatives to certain applications you used to use. Or you can
+        use your backup to regain all your past files and re-download your past
+        apps through Aurora Store (which can be downloaded through F-Droid).
+    </li>
+    </ol>
+    It is possible to go even further and root your phone with <a
+        href="https://topjohnwu.github.io/Magisk/install.html">Magisk</a> which
+    allows even greater customization such as significantly <a
+        href="https://www.celsoazevedo.com/files/android/google-camera/">improved
+        camera quality</a>, <a
+        href="https://github.com/di72nn/callrecorder-axet">access to call
+        recording</a>, and <a
+        href="https://github.com/MatteCarra/AccA">controlling how much your
+        phone charges</a> (e.g., to increase longevity of your battery).
+</p>
+<p>
+    In terms of alternative applications, here are a couple that I enjoy:
+    <ul>
+    <li>
+        <a href="https://f-droid.org/en/packages/com.beemdevelopment.aegis/">Aegies
+            Authenticator</a> : An open source two-factor authentication
+        application.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/com.apps.adrcotfas.goodtime/">Goodtime -
+            Pomodoro Timer</a> : The F-Droid version has premium services.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/net.cozic.joplin/">Joplin</a>
+        : Open source note-taking application that you can sync between computers
+        and upload to the cloud.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/org.kde.kdeconnect_tp/">KDE Connect</a>
+        : Links your phone to any other computer or phone to perform things
+        such as: file sharing, controlling the other device, sending messages through
+        the other device, audio play/pause depending on phone calls, and more.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/fr.neamar.kiss/">KISS Launcher</a>
+        : Search based launcher to maximize start-ups and increase
+        the rate by which you use your phone
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/app.organicmaps/">Organic Maps</a>
+        : Maps that is better than Google Maps for jogging and biking.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/net.osmand.plus/">OsmAnd</a>
+        : Google Maps alternative, especially for driving.
+    </li>
+    <li>
+        <a href="https://f-droid.org/en/packages/ch.protonvpn.android/">ProtonVPN</a>
+        : Free and one of the top rated VPNs.
+    </li>
+    <li>
+        More applications that you can find in
+        <a href="https://github.com/Psyhackological/AAA">AAA</a>'s website
+    </li>
+    </ul>
+</p>
+
+
+<h2>Useful Desktop Applications</h2>
+
+<p>
+    Speaking of useful applications, here are some applications that I have
+    grown fond of over the years.
+</p>
+
+<h3>Cross-Platform Applications</h3>
+
+<ul>
+<li>
+    <a href="https://apps.ankiweb.net/">Anki</a> (Desktop, Web, Phones):
+    Quizlet on steroids. Ask your friends in medical school if you need any convincing.
+</li>
+<li>
+    <a href="https://www.blender.org/">Blender</a> (Desktop):
+    Free and open-source 3D-Modelling tool with a massive community support.
+</li>
+<li>
+    <a href="https://sourceforge.net/projects/briss/">Briss</a> (Desktop):
+    Allows cropping contents out of .pdf files. Very useful if you need to
+    extract high quality items from these files (e.g. figures from research
+        papers).
+<li>
+    <a href="draw.io">draw.io</a> (Desktop, Web):
+    A very easy-to-use and free diagram making software.
+</li>
+<li>
+    <a href="https://element.io/">Element</a> (Desktop, Web, Phones):
+    Basically Discord, but free, open-source, and ridiculously private. This is
+    federated and encrypted, so only you and your recipient have access to
+    messages.
+</li>
+<li>
+    <a href="https://www.mozilla.org/en-US/firefox/new/"><b>Firefox</b></a>
+    (Desktop, Phones): The only major non-Chrome based browser. This is
+    especially important since Firefox supports ad-blocking better and there are
+    numerous add-ons to significantly upgrade performance (such as returning
+    YouTube dislike counts, removing YouTube ads, stronger privacy protection,
+    etc.)
+</li>
+<li>
+    <a href="https://inkscape.org/">Inkscape</a> (Desktop): Free and open source
+    vector drawing application. Extremely useful for drawing diagrams, editing
+    PDF files, and vector art.
+</li>
+<li>
+    <a href="https://joplinapp.org/help/install">Joplin</a> (Desktop, Phone):
+    Minimal yet versatile note taking software with encryption and usability
+    with ANY cloud storage (Google, OneDrive, Nextcloud, personal, etc.). This
+    is similar to Obsidian, but is free and open sourced.
+</li>
+<li>
+    <a href="https://kdenlive.org/">Kdenlive</a> (Desktop): Easy to use and
+    minimal video-editing software.
+</li>
+</ul>
+
+<h3>Windows-Only Applications</h3>
+
+<ul>
+<li>
+    <a href="https://chocolatey.org/install#individual"><b>Chocolatey</b></a> :
+    Application downloader and manager. Similar to `apt install` on Linux.
+    Extremely useful for multiple downloads and mass updating applications. In
+    fact, many of the applications listed here can be installed via chocolatey.
+</li> <li>
+    <a href="https://github.com/Code52/carnac">Carnac</a>: Shows keys pressed on
+    screen. Useful for doing tutorials.
+</li> <li>
+    <a href="https://ditto-cp.sourceforge.io/">Ditto</a>: Stores clipboard
+    history. Allows easy copy-pasting multiple items.
+</li> <li>
+    <a href="https://www.voidtools.com/"><b>(Search) Everything</b></a>:
+    Literally allows searching everything for something, without ANY noticeable
+    loss of computer performance. Highly recommended, especially if you are
+    disorganized.
+</li> <li>
+    <a href="https://handbrake.fr/">Handbrake</a>: Easily change media file
+    formats, trim, compress, etc. Very useful if you make videos and need a
+    smaller file size out of them.
+</li> <li>
+    <a href="https://imageglass.org/">Image Glass</a>: A much better and faster
+    photo viewer.
+</li> <li>
+    <a href="https://www.rocksdanister.com/lively/"><b>Lively</b></a>: Live
+    desktop wallpapers. This is similar to steam, except that it is more
+    minimal, supports audio, and you can make CUSTOM wallpapers. FOSS.
+</li> <li>
+    <a
+        href="https://learn.microsoft.com/en-us/windows/powertoys/"><b>
+            PowerToys</b></a>: Significantly upgrades functionality of your
+    Windows machine. Adds MANY features ranging from color picker, unit conver
+    sion, math, web and computer search, window tiling, and so so so much more,
+    all done minmally and with few key presses. This is the one item that should
+    be definitely used on a regular basis. FOSS.
+</li> <li>
+    <a href="https://github.com/QL-Win/QuickLook/releases">Quicklook</a>: Allows
+    quickly viewing an item WITHOUT opening it. Useful for quickly viewing a pdf
+    document, an image, etc., without opening an application for it.
+</li> <li>
+    <a href="https://getsharex.com/">ShareX</a>: Screenshot tool with lots of
+    features. Can be a bit too many features for some people.
+</li> <li>
+    <a
+        href="https://www.sumatrapdfreader.org/free-pdf-reader">SumatraPDF</a>:
+    Very lightweight PDF viewer. FOSS.
+</li> <li>
+    <a href="https://github.com/lltcggie/waifu2x-caffe">Waifu2x-caffe</a>: Image
+    upscaling and denoising. Useful if you download low quality images and wish
+    it was better quality. FOSS. There is also a <a
+                                                     href="https://www.waifu2x.net/">web
+                                                     version</a>.
+</li> <li>
+    <a href="https://github.com/samhocevar/wincompose/">WinCompose</a>: Allows
+    inserting special character very easily (e.g., I can type ≠ by using alt and
+    = and / in sequence).
+</li> <li>
+    <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>: Command line youtube
+    (and other) downloader. FOSS.
+</li>
+</ul>
+<p>
+    <i>This page was last updated on July 2, 2024.</i>
+</p>
+</div>
+</body>
 </html>
