@@ -38,6 +38,7 @@
             <div class="fig">
                 <img
                 src="Images/Research-Goel-XOR.png"
+                id="gradientFree"
                 alt="Plot of convergence of various training methods, in which
                 the Newton method outranks random search, which outranks gradient descent.">
                 Figure 1: Testing gradient free training methods
@@ -57,7 +58,7 @@
                 In particular, I have,
                 <ol>
                     <li>Used conventional machine learning techniques to train NNs
-                        using both Keras and custom gradient descent,
+                        using both Keras, Pytorch, and custom gradient descent,
                     </li>
                     <li>
                         Illustrated the ability of gradient <i>free</i> methods,
@@ -70,9 +71,17 @@
                         due to properties of accelerometers, gyroscopes, and magnetometers,
                     </li>
                     <li>
-                        And implemented a novel finite time algorithm
+                        Implemented a novel finite time algorithm
                         in discreet problems such as NNs, 
-                        shown in figure <a href=#finiteTime>2</a>.
+                        shown in figure <a href=#finiteTime>2</a>,
+                    </li>
+                    <li>
+                        Combined extended Kalman filter with NNs to improve long
+                        term convergence,
+                    </li>
+                    <li>
+                        And developed a simultaneous localization and mapping
+                        platform for future research and coursework.
                     </li>
                 </ol>
             </p>
@@ -89,25 +98,55 @@
                 or present on my research:
                 <ol>
                     <li>
-                        A Tutorial on Neural Networks and Gradient-free
-                        Training (rejected, ACC 2023). <a href="https://doi.org/10.48550/arXiv.2211.17217">arXiv link</a>
+                        <b>Conference Paper</b>, 2022
+                        <br> "A Tutorial on Neural Networks and Gradient-free
+                        Training"
+                        <br> Submitted to: 2024 American Controls Conference (ACC)
+                        <br> Status: Rejected
+                        <br> Authors: Turibius Rozario, Arjun Trivedi, Ankit
+                        Goel
+                        <br> <a href="https://doi.org/10.48550/arXiv.2211.17217">arXiv link</a>
                     </li>
                     <li>
-                        URCAD &mdash; Presented poster on neural networks and gradient-free training on UMBC's undergraduate research day.
+                        <b>URCAD</b>, 2023
+                        <br> Presented poster on neural networks and gradient-free training on UMBC's undergraduate research day.
                         <a href="https://urcad.umbc.edu/abstract-2023/">Link to abstracts</a>
                     </li>
                     <li>
-                        Time accelerated algorithms.
+                        2023. Time accelerated algorithms.
                         This was cancelled due to thresholding.
                     </li>
                     <li>
-                        Modelling dynamical systems using neural networks. (In progress)
+                        <b>URCAD</b>, 2024
+                        <br> Modelling dynamical systems using neural networks.
+                    </li>
+                    <li>
+                        <b>Conference Paper</b>, 2024
+                        <br> "Matrix-Based Representations and
+                        Gradient-Free Algorithms for Neural Network Training".
+                        <br> Submitted to: 2024 International Conference on Machine
+                        Learning and Applications (ICMLA).
+                        <br> Status: Accepted
+                        <br> Authors: Turibius Rozario, Parham Oveissi, Ankit Goel
+                    </li>
+                    <li>
+                        <b>Conference Paper</b>, 2024
+                        <br> "Neural filtering for Neural Network-based Models of
+                        Dynamic Systems"
+                        <br> Submitted to: 2025 American Control Conference
+                        <br> Status: Under Review
+                        <br> Authors: Parham Oveissi, Turibius Rozario, Ankit
+                        Goel
+                        <br> <a
+                        href="https://doi.org/10.48550/arXiv.2409.13654">arXiv
+                        link</a>
                     </li>
                 </ol>
             </p>
             <div class="fig">
                 <img
                 src="Images/Research-Goel-CostMNIST.png"
+                id="finiteTime"
                 alt="Plot of convergence of various optimizers, in which
                 FTE outranks Adam, and Adam outranks SGD.">
                 Figure 2: Comparing training algorithm performance on MNIST dataset;
@@ -116,6 +155,78 @@
                 in this case.
             </div>
 
+            <h2>Magnesium Extraction Methods from Seawater | Dr. Michael
+            Wagner</h2>
+            <h3>Summer 2024 (REU)</h3>
+            <p class="background">
+                Backgroud:
+                <a
+                href="https://directory.engr.wisc.edu/me/Faculty/Wagner_Michael/">Dr.
+                Michael Wagner</a> is a Mechanical Engineering professor at
+                University of Wisconsin, Madison. He runs the Energy Systems
+                Optimization Lab (ESOL) with a focus on applied research on
+                developing simulation models and software, and methodologies of
+                improving usage of sustainable energy sources or methods.
+            </p>
+            <div class="fig">
+                <img 
+                src="Images/Research-Wagner-pH.png"
+                id="pHonMg"
+                alt="Two figures showing the effect of pH on magnesium
+                extraction. In the top figure, as the pH increases (by adding
+                sodium hydroxide), the amount
+                of magnesium precipitate increases between pH of about 7 and
+                12.5. Then calcium begins precipitating out. Both are linear.
+                The second figure is the effect of adding calcium hydroxide to
+                increase the pH. Magnesium begins precipitating up to a point,
+                after which any calcium hydroxide added will remain
+                precipitated.">
+                Figure 3: Effect of pH on magnesium hydroxide and calcium
+                hydroxide precipitate using sodium hydroxide or calcium
+                hydroxide as the base, as calculated using PHREEQC.
+            </div>
+            <p>
+                A seawater mining with zero-liquid discharge powered by nuclear
+                energy was proposed by ESOL. Seawater would undergo
+                pretreatment, all ions will be extracted, and finally reverse
+                osmosis would provide fresh drinking water, all while being
+                powered by sustainable nuclear energy.
+            </p>
+            <p>
+                My role over the summer was researching the extraction of
+                bivalent ions, primarily magnesium ions, from seawater. I
+                determined and analyzed the energy and cost requirements for all
+                the methods related with magnesium salt extraction and
+                conversion to pure magnesium metal. Figure <a
+                href="#pHonMg">3</a> showcases the utilization one of the
+                methodologies that I had to test to determine its effectiveness,
+                and figure <a href="#sano">4</a> showcases a method by <i>Sano
+                et al. 2018</i>. I went beyond and researched
+                pre-treatment of seawater, extraction of calcium, and
+                concentration of seawater and its inaccuracies.
+            </p>
+            <p>
+                Three deliverables were produced during this research
+                experience:
+                <ul>
+                    <li>Research poster, presented at University of Wisconsin,
+                    Madison.</li>
+                    <li>Detailed documentation on extracting magnesium.</li>
+                    <li>Contribution to a perspective paper to be submitted to
+                    <i>Desalination</i>.</li>
+                </ul>
+            </p>
+            <div class="fig">
+                <img src="Images/Research-Wagner-Sano.png"
+                id="sano"
+                alt="Figure illustrating electrodialysis method for extracting
+                magnesium from seawater. One chamber has brine flowing through
+                cathode and yields brine, magnesium hydroxide, and hydrogen gas.
+                The other chamber has sodium chloride solution flowing through
+                anode and yields oxygen gas and hydrochloric acid. Sodium passes
+                through the exchange membrane from the anode to the cathode.">
+                Figure 4: Visual illustration of magnesium hydroxide
+            </div>
             <h2>Design of a Lab-Scale Ocean Wave-Powered Desalination System | Dr. James Van de Ven</h2>
             <h3>Summer 2023 (REU)</h3>
             <p class="background">
@@ -128,12 +239,13 @@
             <div class="fig">
                 <img
                 src="Images/Research-MEPS-Schematic.png"
+                id="simpleIllustration"
                 alt="Illustration of a wave energy based desalination system.
                 The kinetic energy of a large flap, hinged at the sea bed, is
                 used to drive a hydraulic system. The hydraulic system uses
                 seawater to transfer power, generate electricity, and produce
                 freshwater.">
-                Figure 3: Illustration of the core processes and elements in
+                Figure 5: Illustration of the core processes and elements in
                 the desalination system.
             </div>
             <p>
@@ -141,7 +253,7 @@
                 was proposed in prior work by the MEPS lab. The wave energy is harvested using a large
                 oscillating flap hinged at the sea bed, whose kinetic energy is then transferred into 
                 hydraulics; the pressurized seawater is used to generate electricity and freshwater. 
-                Figure <a href="#simpleIllustration">3</a> showcases these primary traits.
+                Figure <a href="#simpleIllustration">5</a> showcases these primary traits.
             </p>
             <p>
                 My role over the summer was to help scale this full-scale system to a lab-scale 
@@ -155,7 +267,7 @@
                 </ol>
             </p>
             <p>
-                Figure <a href="#cornerCondition">4</a> compares the maximum
+                Figure <a href="#cornerCondition">6</a> compares the maximum
                 required pressure differential to the achievable pressure differential based on the energy losses
                 through a specific servo valve; the maximum required flow rate is compared against
                 the achievable flow of the pump. Performance evaluations such as this helped determine
@@ -174,6 +286,7 @@
             <div class="fig">
                 <img
                 src="Images/Research-MEPS-CornerCondition.png"
+                id="cornerCondition"
                 alt="X-axis is oil flow rate, y-axis is pressure differential across oil pump.
                 Plot consisting of three legends.
                 The first is the pressure differential available for the oil pump;
@@ -182,9 +295,13 @@
                 This is located at the 3500 psi and 23 GPM location,
                 which is underneath the curve of pressure differential available.
                 The third is a vertical line indicating the maximum flow rate achievable (24 GPM).">
-                Figure 4: Maximum system requirements for pressure differential and flow rates compared
+                Figure 6: Maximum system requirements for pressure differential and flow rates compared
                 to the achievable pressure differential (4300 psi supply) and flow rate.
             </div>
+
+            <p>
+                <i>This page was last updated on December 9, 2024</i>
+            </p>
         </div>
     </body>
 </html>
