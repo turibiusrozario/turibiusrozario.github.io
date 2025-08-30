@@ -24,23 +24,29 @@
 
 <h1>Other Projects</h1>
 
-<h2>NextCloud: Microsoft 365 and Google Suite Replacement</h2>
+<h2>Nextcloud: Microsoft 365 and Google Suite Replacement</h2>
 
 <p>
-    NextCloud is a completely free and open-source solution to substituting
+    Nextcloud is a completely free and open-source solution to substituting
     Microsoft 365 and Google Suite. Imagine Google Drive, Calendar, Notes,
     Photos, Meet, and more, but completely self-hosted, secure, and truly yours.
-    With NextCloud, <it>you own your data</it>.
+    With Nextcloud, <it>you own your data</it>.
 </p>
 
 <p>
-    I host my own NextCloud server at <a href="https://alexandria.turibiusrozario.com/">
+    I host my own Nextcloud server at <a href="https://alexandria.turibiusrozario.com/">
         alexandria.turibiusrozario.com
     </a> that I regularly use for all personal files 
     and activities. This is done using a Raspberry Pi 4, an external hard drive,
-    and a domain. Below is a guide on setting NextCloud up. This guide is 
+    and a domain. Below is a guide on setting Nextcloud up. This guide is 
     tested and true as of 2025-08-29.
 </p>
+
+<div class="fig">
+    <img src="Images/others-Nextcloud.png"
+    alt="Image of my Nextcloud dashboard">
+    My Nextcloud dashboard
+</div>
 
 <h3>Step 1: Getting all the parts</h3>
 
@@ -56,9 +62,11 @@
 
 <p>
     My setup utilizes a Raspberry Pi 4 Model B with 8 GB RAM, with a cooling fan 
-    attached. I use a fast phone charger to power the Pi; if you do not have one,
-    consider purchasing a power supply that outputs 5V with 3A minimum, and the 
-    output port is type C.
+    attached. I use a fast phone charger to power the Pi.
+</p>
+<p>
+    <b>Warning</b>: If you use a Pi or similar, always power it with an appropriate
+    power supply. For the Pi 4, a 5V 3A (or higher than 3A) power supply is required.
 </p>
 
 <p>
@@ -124,7 +132,7 @@
     install Debian.
 </p>
 
-<h3>Step 3: Prepare the Pi for NextCloud</h3>
+<h3>Step 3: Prepare the Pi for Nextcloud</h3>
 
 <p>
     If you are using an external hard drive as the storage media, please format 
@@ -136,6 +144,12 @@
     on a computer and simply type "ssh your_hostname@locale_name.local" to 
     enter. If you are using an old or mini computer, you can follow all the bottom 
     commands without having to SSH.
+</p>
+
+<p>
+    <b>Warning</b>: In general, you should not just 'unplug' the Pi to power it off.
+    It is always recommended that you run <code>sudo shutdown</code> while connected 
+    via SSH to shut the Pi down.
 </p>
 
 <p>
@@ -214,6 +228,122 @@
     The above code block is taken from the Docker installation guide.
     If you want to see what all the code does, the full guide to 
     installing docker can be found <a href="https://docs.docker.com/engine/install/">here</a>.
+</p>
+
+<h3>Step 4: Installing Nextcloud</h3>
+
+<p>
+    All of the following in this section is done on the Pi. SSH into the Pi to run the commands.
+    If you use a mini computer or an old computer, run the commands on the computer directly.
+</p>
+
+<p>
+    I enabled IPv6 protocol on my Pi for future support (more details about this can be
+    found <a href="https://github.com/nextcloud/all-in-one/blob/main/docker-ipv6-support.md">here</a>).
+    To do this, make a new file:
+</p>
+<pre><code>
+    sudo nano /etc/docker/daemon.json # This file did not exist for me; made new
+</code></pre>
+<p>
+    And add the lines
+</p>
+<pre><code>
+{
+    "default-network-opts": {"bridge":{"com.docker.network.enable_ipv6":"true"}}
+}
+</code></pre>
+<p>
+    And save and exit by pressing CTRL+X and Enter. Then, run:
+</p>
+<pre><code>
+sudo systemctl restart docker
+sudo docker network inspect nextcloud-aio | grep EnableIPv6
+# The above command verifies if it's enabled. 
+# It's likely not, and in fact, AIO should be missing on a first time setup. 
+# So run:
+sudo docker network create nextcloud-aio
+</code>
+</pre>
+
+<p>
+    Identify the IP address of the Pi. This can be done by entering 
+    <code>hostname -I</code>. The IP address is typically in the 
+    format of "10.0.0.XX" (IPv4). 
+    Remember this address since it will be needed later.
+</p>
+
+<p>
+    The following code is taken directly from the Nextcloud AIO. You can see all their
+    guides and documentation <a href="https://github.com/nextcloud/all-in-one">here</a>.
+    I used the following code, where "NAME" refers to my harddrive; change it accordingly.
+    You can remove the entire line if you are not using an external hard drive.
+</p>
+<pre><code>
+sudo docker run \
+--init \
+--sig-proxy=false \
+--name nextcloud-aio-mastercontainer \
+--restart always \
+--publish 80:80 \
+--publish 8080:8080 \
+--publish 8443:8443 \
+--volume nextcloud_aio_mastercontainer:/mnt/docker-aio-config \
+--volume /var/run/docker.sock:/var/run/docker.sock:ro \
+--env NEXTCLOUD_DATADIR="/media/NAME" \
+ghcr.io/nextcloud-releases/all-in-one:latest
+</code></pre>
+
+<h3>Step 5: Internet Configurations and Finishing Up</h3>
+
+<p>
+    Head to your router's configuration page, which can typically be accessed by going to 
+    "10.0.0.1" on your browser. There, make the IP address for the Pi (found earlier) to be 
+    a "Reserved IP" instead of DHCP. This prevents the local address from changing.
+</p>
+
+<p>
+    To enable access to the Pi from anywhere in the world (with internet connectivity), ports
+    have to be opened. On the router's configuration page, look for "Port Forwarding" option.
+    Forward the following ports for the Pi:
+    <ul>
+        <li>80 TCP</li>
+        <li>443 TCP and UDP</li>
+        <li>3478 TCP and UDP</li>
+        <li>8443 TCP</li>
+    </ul>
+    That is all the configurations needed on the router.
+</p>
+
+<p>
+    <b>Note</b>: There are several IP addresses. There are IPv4 addresses that are in the 
+    format of X.X.X.X, and IPv6 addresses that are in the format of X:X:X:X:X:X:X:X. Some 
+    of these addresses can be local: these are visible only while connected to your router,
+    and is the one that you just found in the above step. There are public IP addresses that 
+    can be seen from anywhere in the world: this will be used in the next step.
+</p>
+
+<p>
+    Next, the domain has to be configured to forward to your Nextcloud. On Porkbun, I had to
+    click on "DNS" to configure. Make a Type "A - Address record" with an answer/value
+    consisting of the public IP address. This can be found by searching "What's my IP?" online.
+    The hostname can be left blank if you want "your_domain.tld" to point to Nextcloud.
+    I used "alexandria.turibiusrozario.com" as the domain, and a TTL value of 3600. This record 
+    uses the IPv4 public address. You can additionally add the IPv6 address by creating a Type 
+    "AAAA" address record; this will have the same domain name and TTL, but the answer/value will 
+    be the IPv6 address (again, you can find this by simply searching "what is my IPv6 address?").
+</p>
+
+<p>
+    Now, go to "https://10.0.0.X:8080/setup"; replace X with the correct number that points to the Pi.
+    From here, simply follow all the instructions on screen.
+</p>
+
+<p>
+    Once you reach the page where you can choose your containers, keep in mind that the more
+    containers you enable, the more processing power you will need on your device. I kept all 
+    the defaults enabled only. Once you click 'Start', it might take as much as 10 minutes before
+    everything is ready. Then, you can finally go to "https://your_domain.tld" and enjoy NextCloud!
 </p>
 
 <h2>Headtracker with FPV Camera (Prototype)</h2>
