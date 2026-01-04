@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://turibiusrozario.com/sitemap.xml
+Sitemap: https://turibiusrozario.com./sitemap.xml
