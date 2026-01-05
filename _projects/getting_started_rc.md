@@ -20,6 +20,7 @@ related_publications: false
 This section is meant to be a guide for a beginner
 who wants to build an aircraft on a budget.
 Things that will be covered are:
+
 <ol>
     <li>Pre-existing beginner guides</li>
     <li>Tools purchase list</li>
@@ -70,27 +71,28 @@ there exists other tutorials on getting into this hobby.
 The best and most useful,
 in my opinion,
 is <a href="https://www.youtube.com/playlist?list=PL6IuSFWz4ktvupu_gxw1vn-sjBGOkJFHV">
-    <b>FliteTest's Beginner Series</b>
+<b>FliteTest's Beginner Series</b>
 </a>.
 I personally used their beginner series
 and found it to be very informative yet easy to watch.
 Here's a link to one of their build videos:
 <a href="https://youtu.be/KJWg5HJBGGc">
-    Flite Test Tiny Trainer
+Flite Test Tiny Trainer
 </a>.
 There is also the
 <a href="https://www.youtube.com/watch?v=bllvhjr51Lk&pp=ygUWam95cGxhbmVzIHRyYWluZXIgbWluaQ%3D%3D">
-    Joytrainer Mini
+Joytrainer Mini
 </a> that you can try.
 
 ## Tools purchase list
 
-The largest cost in getting into the hobby is 
+The largest cost in getting into the hobby is
 the initial cost due to tools.
 However, keep in mind that you only need to buy these tools <i>once</i>.
 Additionally, these tools are helpful for other projects such as
 robotics, electronic repairs, and power supply.
 Here's a list of non-electric tools to purchase:
+
 <ol>
     <li>Needle nose pliers 
         (make sure that they can have the wire cutter section)</li>
@@ -109,14 +111,14 @@ used to measure continuity and voltage for electronic parts.
 #### Battery charger
 
 You will need a dedicated battery charger for the <i>lithium</i> batteries.
-I personally use 
+I personally use
 <a href="https://www.amazon.com/Charger-Battery-Balance-Discharger-Adapter/dp/B07R18YNZQ">
-    HTRC C150</a>
+HTRC C150</a>
 because it is cheaper than other options, and comes with adapters and a battery bag.
 If you want to purchase any other charger,
 ensure that they are able to 'storage discharge' batteries
 and have multiple failsafe options.
-If you know you will be more involved in this hobby, 
+If you know you will be more involved in this hobby,
 or are planning on flying quadcopters,
 I have used and recommend the HTRC D240.
 
@@ -125,6 +127,7 @@ I have used and recommend the HTRC D240.
 A radio transmitter (TX) is needed to control the aircraft.
 Keep in mind that a receiver (RX) is needed alongside.
 Here are a few options:
+
 <ul>
     <li>
         FlySky FS-i6X if you are on a very tight budget
@@ -172,12 +175,11 @@ since it is open sourced and rapidly growing in popularity and
 features. If the Boxer is too pricey, the Radiomaster Pocket is
 an alternative.
 
-
 For ELRS, make sure to get the 'FCC' version.
 Any ELRS receiver can work with any ELRS TX.
 However, for airplanes, you will typically want to get a PWM ELRS RX
 with at least 4 <i>usable</i> PWM pins.
-Example brands for the PWM ELRS RX include: 
+Example brands for the PWM ELRS RX include:
 Radiomaster ER series, Mateksys, and Betafpv.
 
 #### Solder station
@@ -185,6 +187,7 @@ Radiomaster ER series, Mateksys, and Betafpv.
 As you progress, you will need a solder station
 since many RC parts come unsoldered. When purchasing a solder station,
 make sure that it
+
 <ul>
     <li>has temperature control, and</li>
     <li>comes with different tips (especially a bevel or chisel tip).</li>
@@ -202,7 +205,8 @@ since it will help you in the long run.
 
 ## Parts purchase list
 
-Some general parts to purchase are: 
+Some general parts to purchase are:
+
 <ul>
     <li>Hoop and loop tape (also known as velcro)</li>
     <li>Rubber bands (assorted recommended)</li>
@@ -220,7 +224,7 @@ Loctite Blue to further secure nuts and bolts.
 My recommendation to get started with RC airplanes is to
 purchase the items listed in this <a
 href="https://github.com/turibiusrozario/turibiusrozario.github.io/blob/main/assets/csv/UAVs-Trainer-BOM.csv">
-    spreadsheet
+spreadsheet
 </a>. I already added links to the purchases, however, you can
 easily find alternatives. Only the motor mount has to be 3D
 printed, preferably with PETG (other materials work, however
@@ -228,7 +232,4 @@ they come with their own disadvantages). The 3D printable file
 for this can be found <a
 href="https://drive.google.com/file/d/1zS25tqwQ07R53doif9VbXIQ5sc2w6WNp/view?usp=sharing">here</a>.
 
-
 The plans for the work can be found: **TODO**
-
-

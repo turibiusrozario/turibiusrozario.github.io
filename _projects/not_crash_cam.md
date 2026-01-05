@@ -14,4 +14,3 @@ related_publications: false
     <source
         src=https://alexandria.turibiusrozario.com/s/TiCPiE3jJRWoTXQ/download" type="video/mp4">
 </video>
-

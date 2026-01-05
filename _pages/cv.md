@@ -14,7 +14,7 @@ cv_pdf: resume.pdf # you can also use external links here
     </object>
   </div>
 
-## Visual CV 
+## Visual CV
 
 This is a simplified timeline of my activities and experiences. Scroll left or right.
 
@@ -25,5 +25,3 @@ This is a simplified timeline of my activities and experiences. Scroll left or r
       style="width:2800px; height:600px; display:block;">
     </object>
   </div>
-
-

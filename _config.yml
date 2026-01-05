@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Turibius
-middle_name: 
+middle_name:
 last_name: Rozario
 contact_note: >
   You can best reach me at my email for professional communication; matrix otherwise.
@@ -121,15 +121,15 @@ disqus_shortname: al-folio # put your disqus shortname
 # Optional: Set default categories and tags for posts from each source.
 external_sources:
   # - name: medium.com
-    # rss_url: https://medium.com/@al-folio/feed
-    # categories: [external-posts]
-    # tags: [medium]
+  # rss_url: https://medium.com/@al-folio/feed
+  # categories: [external-posts]
+  # tags: [medium]
   # - name: Google Blog
-    # posts:
-      # - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        # published_date: 2024-05-14
-    # categories: [external-posts]
-    # tags: [google]
+  # posts:
+  # - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+  # published_date: 2024-05-14
+  # categories: [external-posts]
+  # tags: [google]
 
 # -----------------------------------------------------------------------------
 # Newsletter

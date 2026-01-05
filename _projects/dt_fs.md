@@ -26,11 +26,10 @@ return-to-home in case of emergencies. The beeper activates in the event of a cr
 
 The parts needed for construction
 are available <a href="https://github.com/turibiusrozario/turibiusrozario.github.io/blob/main/assets/csv/UAVs-DT-Firestyle_BOM.csv">here</a>;
-in case the links expire at the time of viewing, you can 
+in case the links expire at the time of viewing, you can
 search the item using their name or find a similar alternative. The build should
-cost no more than &dollar;400. I 3D printed TPU mounts: an 
+cost no more than &dollar;400. I 3D printed TPU mounts: an
 <a href="https://www.thingiverse.com/thing:6526185">action camera mount</a> and
 <a href="https://www.thingiverse.com/thing:6526197">a GPS mount</a>.
 Use zip ties to secure everything to place, and heat shrink with zip tie to protect and align
 the receiver antennas.
-

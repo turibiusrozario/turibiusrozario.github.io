@@ -19,14 +19,13 @@ related_publications: false
 
 SUAS 2025 was the first year that UMBC AIAA SUAS managed to compete in in-person.
 The <a href="https://suas-competition.org/">SUAS Competition</a> is a highly
-international competition with the objective of having an autonomous aircraft 
+international competition with the objective of having an autonomous aircraft
 under 55 pounds perform missions such as delivering payload, mapping, identifying
 objects, all while having design and performance constraints. As a part of the
-competition requirement, a team website, design report and proof of flight video 
+competition requirement, a team website, design report and proof of flight video
 had to be produced. In the actual fly-off, the team placed 19th out of 81 registered
 teams. A video of the competition can be found <a href="https://www.instagram.com/p/DLeCVutoYaw/">here</a>.
 
 <object data="assets/pdf/coursesActivities-suas2025report.pdf" type="application/pdf" width="100%" height="600px">
     <a href="assets/pdf/coursesActivities-suas2025report.pdf">SUAS FY2025 report download link.</a>
 </object>
-
