@@ -1,25 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "S. Turibius Rozario",
+    "label": "First-Year Mechanical Engineering PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "turibius@bu.edu",
+    "URL": "https://turibiusrozario.com",
+    "objective": "To become the chief advisor for research and policy-making in renewable energy technologies, mitigating environmental effects, and reversing climate change at the State or Federal level. To that end, I seek to pursue a PhD in Mechanical Engineering, work with governing bodies, and further bring research to the foreground of policy-making.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "MA 02134",
+      "city": "Allston",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+        "region": "Massachusetts"
+    }
     ]
   },
   "work": [
