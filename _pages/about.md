@@ -28,10 +28,23 @@ latest_posts:
 I am Turibius Rozario, a first-year Mechanical Engineering PhD student at Boston
 University. I build drones as a hobby, enjoy exploring new fields
 (metaphorically and literally), and am interested in research topics surrounding
-renewable energy, climate change mitigation, and sustainability.
+renewable energy, climate change mitigation, and sustainability. 
+
+These interests contribute to the overarching themes of using interdisciplinary
+sciences to make a tangible, equitable impact: inspiring and enabling the next
+generation in STEM, asking and addressing the big questions about policy and
+morality, and reducing poverty and fundamental inequality. I believe
+collaborative work is essential to solving global challenges like war and
+climate change. (_For the math enthusiasts out there: I want to identify and
+attain the parameters such that global human happiness and values, and
+biodiversity are maximized while ensuring system stability of a non-trivial
+solution._)
 
 This website showcases my projects and skills for recruiters and
 recommenders, provide tutorials and guides for hobbyists interested in the work
 I do, act as a collection of resources and findings for the
 curious, and just a space for me to let out some of my thoughts to the world.
+
+**This website is still under renovation, and can be expected to be under
+renovation until 2026-01-08**
 

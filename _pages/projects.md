@@ -2,9 +2,9 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Personal projects, ranging from software and hardware to drones and larger projects
+description: Personal projects, ranging from software and hardware to drones and larger projects. Some of these are tutorial-style, and some are just a fun watch.
 nav: true
-nav_order: 3
+nav_order: 1
 display_categories: [UAVs, Competitions, Courses, Software, Hardware]
 horizontal: false
 ---

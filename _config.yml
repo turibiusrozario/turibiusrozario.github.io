@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
-first_name: S.
-middle_name: Turibius
+title: blank # the website title (if blank, full name will be used instead)
+first_name: Turibius
+middle_name: 
 last_name: Rozario
 contact_note: >
   You can best reach me at my email for professional communication; matrix otherwise.
@@ -14,7 +14,6 @@ footer_text: >
 keywords: portfolio, turibius, rozario, phd, boston, umbc
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon-tab.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
 url: https://turibiusrozario.com # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
