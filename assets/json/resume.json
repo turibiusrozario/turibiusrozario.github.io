@@ -16,14 +16,25 @@
   "education": [
     {
       "institution": "Boston University",
-      "location": "MA USA",
+      "location": "Massachusetts, USA",
       "url": "https://www.bu.edu/",
       "area": "Mechanical Engineering",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "startDate": "Sep 2025",
       "endDate": "May 2030",
-      "score": "3.9/4.0",
+      "score": "3.90",
       "courses": ["Applied Mathematics in Mechanical Engineering", "Advanced Engineering Mathematics", "Simulation of Physical Proceses"]
+    },
+    {
+      "institution": "University of Maryland-Baltimore County",
+      "location": "Maryland, USA",
+      "url": "https://www.umbc.edu/",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "startDate": "June 2021",
+      "endDate": "May 2025",
+      "score": "3.91",
+      "coursesAudited": ["Energy Within Environmental Constraints (HarvardX)", "Fundamentals of Fluid Power (University of Minnesota)", "Energy Sources for the Future (UMBC)"]
     }
   ],
   "work": [

@@ -36,18 +36,41 @@
         </div>
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
-              {{ content.studyType }}, 
+            {%- if content.studyType and content.studyType != '' -%}
+              <strong>{{ content.studyType }}</strong>{% if content.area and content.area != '' or content.url and content.url != '' %}, {% endif %}
+            {%- endif -%}
+            {%- if content.area and content.area != '' -%}
+              <em>{{ content.area }}</em>{% if content.url and content.url != '' %}, {% endif %}
+            {%- endif -%}
+            {%- if content.url and content.url != '' -%}
+              <a href="{{ content.url }}">{{ content.institution }}</a>
+            {%- else -%}
+              {{ content.institution }}
+            {%- endif -%}
           </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem"><a href="{{
-                  content.url }}">{{ content.institution }}</a></h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.area }}</h6>
-          <ul class="items">
-            {% for item in content.courses %}
-              <li>
-                <span class="item">{{ item }}</span>
-              </li>
-            {% endfor %}
-          </ul>
+
+          {%- if content.gpa or content.score or content.grade -%}
+            <p class="ml-1 ml-md-4" style="font-size:0.95rem; margin:0 0 4px 0;">
+              GPA: {% if content.gpa -%}{{ content.gpa }}{% elsif content.score -%}{{ content.score }}{% else -%}{{ content.grade }}{%- endif -%}/4.00
+            </p>
+          {%- endif -%}
+          {%- if content.courses and content.courses.size > 0 -%}
+            <p class="ml-1 ml-md-4" style="font-size:0.95rem; margin:0 0 4px 0;">Select Courses:</p>
+            <ul class="items" style="margin-top:0;">
+              {%- for item in content.courses -%}
+                <li><span class="item">{{ item }}</span></li>
+              {%- endfor -%}
+            </ul>
+          {%- endif -%}
+
+          {%- if content.coursesAudited and content.coursesAudited.size > 0 -%}
+            <p class="ml-1 ml-md-4" style="font-size:0.95rem; margin:4px 0 0 0;">Audited Courses:</p>
+            <ul class="items" style="margin-top:0;">
+              {%- for item in content.coursesAudited -%}
+                <li><span class="item">{{ item }}</span></li>
+              {%- endfor -%}
+            </ul>
+          {%- endif -%}
         </div>
       </div>
     </li>
