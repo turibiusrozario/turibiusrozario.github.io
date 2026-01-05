@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "Personal projects, ranging from software and hardware to drones and larger projects. Some of these are tutorial-style, and some are just a fun watch.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-blog",
           title: "Blog",
           description: "",
           section: "Navigation",
@@ -23,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "Personal projects, ranging from software and hardware to drones and larger projects",
+        },{id: "nav-research",
+          title: "Research",
+          description: "My intended focus is in the fields related to renewable energy, climate change reversal, and sustainability. My current or previous research experiences are listed below.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -37,7 +44,32 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "projects-suas-2025-competition",
+          title: 'SUAS 2025 Competition',
+          description: "Recap of the 2024-2025 SUAS competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025_suas_competition/";
+            },},{id: "projects-crash-cam",
+          title: 'Crash Cam',
+          description: "Crashes happen. Here are a few.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/crash_cam/";
+            },},{id: "projects-dovetail-firestyle",
+          title: 'Dovetail Firestyle',
+          description: "A cinematic/freestyle 6&quot; quadcopter.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dt_fs/";
+            },},{id: "projects-getting-started-beginner-rc-plane",
+          title: 'Getting Started: Beginner RC Plane',
+          description: "Detailed tutorial on getting started to your first RC plane",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/getting_started_rc/";
+            },},{id: "projects-not-crash-cam",
+          title: 'Not Crash Cam',
+          description: "Most times, I don&#39;t crash. Here are some of my highlights.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/not_crash_cam/";
+            },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
