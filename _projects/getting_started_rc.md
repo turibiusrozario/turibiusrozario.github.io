@@ -2,7 +2,7 @@
 layout: page
 title: "Getting Started: Beginner RC Plane"
 description: Detailed tutorial on getting started to your first RC plane
-img: assets/img/placeholder-3x2.png
+img: assets/img/UAVs-thumbnail-getting_started.png
 importance: 2
 category: UAVs
 related_publications: false
