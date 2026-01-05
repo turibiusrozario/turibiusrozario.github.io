@@ -44,12 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-suas-2025-competition",
-          title: 'SUAS 2025 Competition',
-          description: "Recap of the 2024-2025 SUAS competition",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2025_suas_competition/";
-            },},{id: "projects-crash-cam",
+        },{id: "projects-crash-cam",
           title: 'Crash Cam',
           description: "Crashes happen. Here are a few.",
           section: "Projects",handler: () => {
