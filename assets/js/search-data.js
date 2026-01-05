@@ -49,6 +49,21 @@ ninja.data = [{
           description: "Crashes happen. Here are a few.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/crash_cam/";
+            },},{id: "projects-cube-3000",
+          title: 'Cube 3000',
+          description: "Oversized fidget cube that also vibrates.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cube_3000/";
+            },},{id: "projects-dbf-2024-competition",
+          title: 'DBF 2024 Competition',
+          description: "Recap of the 2023-2024 DBF competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dbf_2024_competition/";
+            },},{id: "projects-dbf-proposals",
+          title: 'DBF Proposals',
+          description: "Proposals for the AIAA DBF competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dbf_proposals/";
             },},{id: "projects-dovetail-firestyle",
           title: 'Dovetail Firestyle',
           description: "A cinematic/freestyle 6&quot; quadcopter.",
@@ -64,6 +79,11 @@ ninja.data = [{
           description: "Most times, I don&#39;t crash. Here are some of my highlights.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/not_crash_cam/";
+            },},{id: "projects-suas-2025-competition",
+          title: 'SUAS 2025 Competition',
+          description: "Recap of the 2024-2025 SUAS competition",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/suas_2025_competition/";
             },},{
         id: 'social-cv',
         title: 'CV',
