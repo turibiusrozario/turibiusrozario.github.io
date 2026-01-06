@@ -25,8 +25,8 @@ docker ps <span class="nt">-a</span> <span class="c"># should return nothing</sp
 <span class="o">}</span>
 </code></pre></div></div> <p>And save and exit by pressing CTRL+X and Enter. Then, run:</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>systemctl restart docker
 <span class="nb">sudo </span>docker network inspect nextcloud-aio | <span class="nb">grep </span>EnableIPv6
-<span class="c"># The above command verifies if it's enabled. </span>
-<span class="c"># It's likely not, and in fact, AIO should be missing on a first time setup. </span>
+<span class="c"># The above command verifies if it's enabled.</span>
+<span class="c"># It's likely not, and in fact, AIO should be missing on a first time setup.</span>
 <span class="c"># So run:</span>
 <span class="nb">sudo </span>docker network create nextcloud-aio
 </code></pre></div></div> <p>Identify the IP address of the Pi. This can be done by entering <code class="language-plaintext highlighter-rouge">hostname -I</code>. The IP address is typically in the format of “10.0.0.XX” (IPv4). Remember this address since it will be needed later.</p> <p>The following code is taken directly from the Nextcloud AIO. You can see all their guides and documentation <a href="https://github.com/nextcloud/all-in-one" rel="external nofollow noopener" target="_blank">here</a>. I used the following code, where “NAME” refers to my harddrive; change it accordingly. You can remove the entire line if you are not using an external hard drive.</p> <div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>docker run <span class="se">\</span>
