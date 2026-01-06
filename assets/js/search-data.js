@@ -64,6 +64,11 @@ ninja.data = [{
           description: "Proposals for the AIAA DBF competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dbf_proposals/";
+            },},{id: "projects-active-and-passive-filament-dryer",
+          title: 'Active and Passive Filament Dryer',
+          description: "DIY dehydrator and drybox for 3D printing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dehydrator/";
             },},{id: "projects-dovetail-firestyle",
           title: 'Dovetail Firestyle',
           description: "A cinematic/freestyle 6&quot; quadcopter.",
@@ -74,6 +79,21 @@ ninja.data = [{
           description: "Detailed tutorial on getting started to your first RC plane",
           section: "Projects",handler: () => {
               window.location.href = "/projects/getting_started_rc/";
+            },},{id: "projects-headtracker-with-fpv-camera-prototype",
+          title: 'Headtracker with FPV Camera (Prototype)',
+          description: "Roll and tilt gimbal with headtracking",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/headtracker_prototype/";
+            },},{id: "projects-keyboard-navigation-enhancement",
+          title: 'Keyboard Navigation Enhancement',
+          description: "Drastically improving navigation speed on Windows",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/keyboard_enhancement_suite/";
+            },},{id: "projects-nextcloud-guide",
+          title: 'Nextcloud Guide',
+          description: "Microsoft 365 and Google Suite Replacement",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nextcloud_guide/";
             },},{id: "projects-not-crash-cam",
           title: 'Not Crash Cam',
           description: "Most times, I don&#39;t crash. Here are some of my highlights.",
@@ -84,6 +104,16 @@ ninja.data = [{
           description: "Recap of the 2024-2025 SUAS competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/suas_2025_competition/";
+            },},{id: "projects-take-back-your-control-android",
+          title: 'Take Back Your Control - Android',
+          description: "Guide to De-bloating Android",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/take_back_android/";
+            },},{id: "projects-useful-desktop-applications",
+          title: 'Useful Desktop Applications',
+          description: "Just some useful applications that I grew fond of over the years.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/useful_desktop_applications/";
             },},{
         id: 'social-cv',
         title: 'CV',
