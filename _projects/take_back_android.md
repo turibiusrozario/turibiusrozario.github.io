@@ -19,6 +19,7 @@ itself to last more years, I began the journey of 'De-Googling' my phone.
 This does not mean removing all Google components. To me, it means utilizing
 as little closed-source and power-hungry applications as possible, which
 apps made by big tech tend to be. My process was as follows:
+
 <ol>
   <li> Switching to an open-source OS that does not contain bloatware and
       major Google backends by default.</li>
@@ -37,6 +38,7 @@ me to utilize some required Google Apps.
 
 The very first installation is expected to be the hardest. The process
 should be the same regardless of what Android you use:
+
 <ol>
 <li>
     Backup all files: the easiest method is to directly connect your phone
@@ -84,7 +86,6 @@ recording</a>, and <a
 href="https://github.com/MatteCarra/AccA">controlling how much your
 phone charges</a> (e.g., to increase longevity of your battery).
 
-
 In terms of alternative applications, here are a couple that I enjoy:
 
 <ul>
@@ -130,5 +131,3 @@ In terms of alternative applications, here are a couple that I enjoy:
     <a href="https://github.com/Psyhackological/AAA">AAA</a>'s website
 </li>
 </ul>
-
-

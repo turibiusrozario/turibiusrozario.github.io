@@ -21,8 +21,8 @@ related_publications: false
 
 Since some of my filaments were sitting out for a long time, I decided to
 make an active dehydrator. I had some low-cost cork panels lying around.
-Cork, despite being made from wood, is pretty fire resistant. It also is 
-somewhat insulating. I used cork as the body, held together with some 
+Cork, despite being made from wood, is pretty fire resistant. It also is
+somewhat insulating. I used cork as the body, held together with some
 CA (superglue). Two barbecue skewers were placed through the body to prevent
 the spool from touching the bottom. At the bottom, a 34 inch 22 gauge nichrome
 wire with a resistance of 1.016 Ohm/ft was used as the heating element. I
@@ -48,7 +48,7 @@ you would have to use higher temperatures. Overall, this worked better than
 dehydrators that can be bought online, and was also low cost (less than USD 30,
 excluding the power supply).
 
-## Dry Box 
+## Dry Box
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -82,4 +82,3 @@ Wood was used as supports for the plastic.
 <div class="caption">
     Upgraded filament dry box.
 </div>
-

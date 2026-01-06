@@ -33,4 +33,3 @@ proof-of-flight video just 18 hours before going to the competition.
                                               picture-in-picture; web-share"
                                               referrerpolicy="strict-origin-when-cross-origin"
                                               allowfullscreen></iframe>
-
