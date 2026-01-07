@@ -31,7 +31,7 @@ stabilized. I would not recommend this setup, especially with low-quality
 servos, since the vibrations propagate into the video and there is a high
 chance of loosing the sense of orientation.
 
-  <video autoplay muted playsinline controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/WaL9yoR7XYkxQSc/preview">
+  <video controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/WaL9yoR7XYkxQSc/preview">
       <source src="https://alexandria.turibiusrozario.com/s/WaL9yoR7XYkxQSc/download" type="video/mp4">
   </video>
   <div class="caption">

@@ -9,7 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Alston, MD 02134</p>
+    <p>Alston, MA 02134</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,12 +30,12 @@ University. I build drones as a hobby, enjoy exploring new fields
 (metaphorically and literally), and am interested in research topics surrounding
 renewable energy, climate change mitigation, and sustainability.
 
-These interests contribute to the overarching themes of using interdisciplinary
-sciences to make a tangible, equitable impact: inspiring and enabling the next
-generation in STEM, asking and addressing the big questions about policy and
-morality, and reducing poverty and fundamental inequality. I believe
-collaborative work is essential to solving global challenges like war and
-climate change. 
+I’m driven by a practical, interdisciplinary approach to energy and
+sustainability — research and projects that improve people's lives, shape better
+policy, and broaden access to opportunity. I care about equity and
+collaboration: diverse perspectives make stronger solutions, especially when
+tackling systemic challenges like climate change and out-group homogeneity-based
+conflict.
 
 This website showcases my projects and skills for recruiters and
 recommenders, provide tutorials and guides for hobbyists interested in the work

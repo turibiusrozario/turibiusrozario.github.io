@@ -108,7 +108,7 @@ Here's a list of non-electric tools to purchase:
 I recommend purchasing a low-cost multimeter. These are mainly
 used to measure continuity and voltage for electronic parts.
 
-#### Battery charger
+### Battery charger
 
 You will need a dedicated battery charger for the <i>lithium</i> batteries.
 I personally use
@@ -122,7 +122,7 @@ If you know you will be more involved in this hobby,
 or are planning on flying quadcopters,
 I have used and recommend the HTRC D240.
 
-#### Radio transmitter
+### Radio transmitter
 
 A radio transmitter (TX) is needed to control the aircraft.
 Keep in mind that a receiver (RX) is needed alongside.
@@ -182,7 +182,7 @@ with at least 4 <i>usable</i> PWM pins.
 Example brands for the PWM ELRS RX include:
 Radiomaster ER series, Mateksys, and Betafpv.
 
-#### Solder station
+### Solder station
 
 As you progress, you will need a solder station
 since many RC parts come unsoldered. When purchasing a solder station,
@@ -232,4 +232,13 @@ they come with their own disadvantages). The 3D printable file
 for this can be found <a
 href="https://drive.google.com/file/d/1zS25tqwQ07R53doif9VbXIQ5sc2w6WNp/view?usp=sharing">here</a>.
 
-The plans for the work can be found: **TODO**
+The plans for the work is below:
+  <div class="post" style="width:100%; margin:0 auto;">
+    <object data="../../assets/pdf/projects-getting_started-design.pdf"
+            type="application/pdf"
+            style="width:100%; max-width:960px; height:1080px; display:block; margin:0 auto;">
+    </object>
+  </div>
+This trainer flying wing can be built in less than 4 hours for a beginner, and
+1.5 hours for someone with experience.
+

@@ -8,7 +8,7 @@ category: Competitions
 related_publications: false
 ---
 
-  <video autoplay muted playsinline controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/nxFADBedj3Ej4ck/preview">
+  <video controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/CsMQbPdxXpwYQqS/preview">
     <source
         src="https://alexandria.turibiusrozario.com/s/CsMQbPdxXpwYQqS/download" type="video/mp4">
   </video>

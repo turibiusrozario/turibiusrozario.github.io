@@ -213,6 +213,6 @@ Three deliverables were produced during this research experience:
   <ul>
       <li>Research poster, presented at SURE at University of Minnesota. 
           <a href="http://www.mrsec.umn.edu/_assets/pdf/REU-event-programs/SURE23.pdf">Link to abstracts.</a></li>
-      <li>Extended abstract, which can be read <a href="Documents/umn_reu_extended_abstract.pdf">here</a></li>
+      <li>Extended abstract, which can be read <a href="../assets/pdf/umn_reu_extended_abstract.pdf">here</a></li>
       <li>Project hand-off memo, consisting of all research files and deliverables.</li>
   </ul>
