@@ -44,12 +44,62 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-crash-cam",
-          title: 'Crash Cam',
-          description: "Crashes happen. Here are a few.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/crash_cam/";
-            },},{id: "projects-cube-3000",
+        },{id: "post-nextcloud-guide",
+        
+          title: "Nextcloud Guide",
+        
+        description: "Microsoft 365 and Google Suite Replacement",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nextcloud_guide/";
+          
+        },
+      },{id: "post-not-crash-cam",
+        
+          title: "Not Crash Cam",
+        
+        description: "Most times, I don&#39;t crash. Here are some of my highlights.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/not_crash_cam/";
+          
+        },
+      },{id: "post-crash-cam",
+        
+          title: "Crash Cam",
+        
+        description: "Crashes happen. Here are a few.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/crash_cam/";
+          
+        },
+      },{id: "post-useful-desktop-applications",
+        
+          title: "Useful Desktop Applications",
+        
+        description: "Just some useful applications that I grew fond of over the years.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/useful_desktop_applications/";
+          
+        },
+      },{id: "post-take-back-your-control-android",
+        
+          title: "Take Back Your Control - Android",
+        
+        description: "Guide to De-bloating Android",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/take_back_android/";
+          
+        },
+      },{id: "projects-cube-3000",
           title: 'Cube 3000',
           description: "Oversized fidget cube that also vibrates.",
           section: "Projects",handler: () => {
@@ -89,31 +139,11 @@ ninja.data = [{
           description: "Drastically improving navigation speed on Windows",
           section: "Projects",handler: () => {
               window.location.href = "/projects/keyboard_enhancement_suite/";
-            },},{id: "projects-nextcloud-guide",
-          title: 'Nextcloud Guide',
-          description: "Microsoft 365 and Google Suite Replacement",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/nextcloud_guide/";
-            },},{id: "projects-not-crash-cam",
-          title: 'Not Crash Cam',
-          description: "Most times, I don&#39;t crash. Here are some of my highlights.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/not_crash_cam/";
             },},{id: "projects-suas-2025-competition",
           title: 'SUAS 2025 Competition',
           description: "Recap of the 2024-2025 SUAS competition",
           section: "Projects",handler: () => {
               window.location.href = "/projects/suas_2025_competition/";
-            },},{id: "projects-take-back-your-control-android",
-          title: 'Take Back Your Control - Android',
-          description: "Guide to De-bloating Android",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/take_back_android/";
-            },},{id: "projects-useful-desktop-applications",
-          title: 'Useful Desktop Applications',
-          description: "Just some useful applications that I grew fond of over the years.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/useful_desktop_applications/";
             },},{
         id: 'social-cv',
         title: 'CV',
