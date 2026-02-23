@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-01-14'
+  last_updated: '2026-02-23'
 papers:
   tzZvB3kAAAAJ:9yKSN-GCB0IC:
-    citations: 1
-    title: A Tutorial on Neural Networks and Gradient-free Training
+    citations: 2
+    title: A tutorial on neural networks and gradient-free training
     year: '2022'
   tzZvB3kAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -11,7 +11,7 @@ papers:
     year: '2025'
   tzZvB3kAAAAJ:u-x6o8ySG0sC:
     citations: 2
-    title: Neural filtering for Neural Network-based Models of Dynamic Systems
+    title: Neural filtering for neural network-based models of dynamic systems
     year: '2024'
   tzZvB3kAAAAJ:u5HHmVD_uO8C:
     citations: 2
