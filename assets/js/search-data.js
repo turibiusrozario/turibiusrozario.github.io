@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
+        },{id: "nav-notes",
+          title: "Notes",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/notes/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
@@ -99,7 +106,12 @@ ninja.data = [{
             window.location.href = "/blog/2024/take_back_android/";
           
         },
-      },{id: "projects-cube-3000",
+      },{id: "notes-renewable-energy",
+          title: 'Renewable Energy',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/sorensen_renewable_energy/";
+            },},{id: "projects-cube-3000",
           title: 'Cube 3000',
           description: "Oversized fidget cube that also vibrates.",
           section: "Projects",handler: () => {
