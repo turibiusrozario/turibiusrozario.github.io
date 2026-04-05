@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to my website! Here you can learn more about me, my work, my ideas, and also some of my tutorials.
 footer_text: >
-keywords: portfolio, turibius, rozario, phd, boston, umbc
+keywords: portfolio, turibius, rozario, phd, boston, umbc, university
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon-tab.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://turibiusrozario.com # the base hostname & protocol for your site
@@ -145,8 +145,8 @@ newsletter:
 # -----------------------------------------------------------------------------
 
 collections:
-  books:
-    output: false
+  notes:
+    output: true
   projects:
     output: true
 
@@ -250,8 +250,10 @@ jekyll-archives:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
-  books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  notes:
+    enabled: [year, tags, categories]
+  # books:
+  #   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
 display_tags: ["aviation", "software", "projects"] # these tags will be displayed on the front page of your blog
 display_categories: [] # these categories will be displayed on the front page of your blog, is in format of "external-services"
