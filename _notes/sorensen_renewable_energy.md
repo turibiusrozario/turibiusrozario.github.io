@@ -5,17 +5,17 @@ author: Bent Sørensen
 # cover: assets/img/book_covers/sorensen_renewable_energy.jpg
 olid: OL9283722M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 9780128045671 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
-categories: science energy
-tags: reading
-buy_link: https://shop.elsevier.com/books/renewable-energy/sorensen/978-0-12-804567-1
+categories: book
+tags: science energy
+buy_link: https://eclass.upatras.gr/modules/document/file.php/CMNG2123/2015/2019-2020/renewable%20energy%2C%20third%20edition%20by%20bent%20sorensen.pdf
 date: 2026-03-08
 started: 2025-12-22
-finished: 2026-03-28
+# finished: 2026-03-28
 # released: 2017
 # year: 2025
 stars: 5
 # goodreads_review: 6318556633
-status: Finished
+status: Reading
 ---
 
 This has been one of the most thorough yet broad books on Renewable Energy that I have read. It is written in a very technical and fundamental science lens which gives it a lot of potential. Do be warned that this is a *very hard* read.
@@ -24,13 +24,11 @@ My most favorite parts were all the interjections that the author makes, since i
 
 > In reference to fossil fuels being "cheap": "As long as they are cheap, they cannot be scarce!"
 
-> Fixed nitrogen is limitng factor of plants. Can be helped by nitrogen fixing plants. Nitrogen fixing plants enhanced by fertilizer. Fertilizer by fossil fuels. So plants grown on fossil fuels than solar energy.
-
 In these notes, page numbers are PDF page numbers, so book page number is PDF page number subtracted by 13. This is the 2017 edition.
 
 ## Chapter 1
 
-- Only 0.02% (might be 0.2%) of renewable energy is used by humans
+- Only 0.02% (might be a typo, is it 0.2%?) of renewable energy is used by humans
 - Fossil fuels are often cause of national conflicts: disparity b/w geographic availability and demand
 - Woodfuel is most common biofuel. Claims of CO2 neutrality is false because replacement rate is super slow
 - Food crops for energy is economically unacceptable (food corps for energy uses too much energy in its own process)
