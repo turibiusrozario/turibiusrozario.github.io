@@ -106,11 +106,31 @@ ninja.data = [{
             window.location.href = "/blog/2024/take_back_android/";
           
         },
-      },{id: "notes-umbc-math-152-notes",
-          title: 'UMBC MATH 152 Notes',
+      },{id: "notes-calculus-2-notes",
+          title: 'Calculus 2 Notes',
           description: "",
           section: "Notes",handler: () => {
               window.location.href = "/notes/UMBC_MATH152/";
+            },},{id: "notes-differential-equations-notes",
+          title: 'Differential Equations Notes',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/UMBC_MATH225/";
+            },},{id: "notes-dynamics-notes",
+          title: 'Dynamics Notes',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/UMBC_ENME221/";
+            },},{id: "notes-fluid-mechanics-notes",
+          title: 'Fluid Mechanics Notes',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/UMBC_ENME320/";
+            },},{id: "notes-applied-mathematics-in-mechanics-notes",
+          title: 'Applied Mathematics in Mechanics Notes',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/BU_ME712/";
             },},{id: "notes-poor-economics",
           title: 'Poor Economics',
           description: "",
