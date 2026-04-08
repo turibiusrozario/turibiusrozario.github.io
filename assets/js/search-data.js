@@ -106,7 +106,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/take_back_android/";
           
         },
-      },{id: "notes-renewable-energy",
+      },{id: "notes-umbc-math-152-notes",
+          title: 'UMBC MATH 152 Notes',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/UMBC_MATH152/";
+            },},{id: "notes-poor-economics",
+          title: 'Poor Economics',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/banerjee_duflo_poor_economics/";
+            },},{id: "notes-renewable-energy",
           title: 'Renewable Energy',
           description: "",
           section: "Notes",handler: () => {
