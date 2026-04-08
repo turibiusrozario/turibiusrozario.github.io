@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: note-review
 title: Renewable Energy
 author: Bent Sørensen
 # cover: assets/img/book_covers/sorensen_renewable_energy.jpg
@@ -18,8 +18,9 @@ stars: 5
 status: Reading
 ---
 
-This has been one of the most thorough yet broad books on Renewable Energy that I have read. It is written in a very technical and fundamental science lens which gives it a lot of potential. Do be warned that this is a *very hard* read.
+This has been one of the most thorough yet broad books on Renewable Energy that I have read. It is written in a very technical and fundamental science lens which gives it a lot of potential. Do be warned that this is a _very hard_ read.
 My most favorite parts were all the interjections that the author makes, since it contrasts the technical-heavy tone of the book. Examples:
+
 > "One wonders when consumers will, instead, respond with the thought that, “If a product needs to be advertised, there must be something wrong with it”?"
 
 > In reference to fossil fuels being "cheap": "As long as they are cheap, they cannot be scarce!"
@@ -45,19 +46,19 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - High-latitude regions: keeping livestock within the living area of the houses, so as to benefit from their respirational heat release.
 - Fig 1.17 and 1.18 are pretty important
 - It is clear, however, that the energy basis for human societies has been renewable energy sources until quite recently.
--  the average European or Japanese uses about half as much energy as the average North American, but the former have a living standard no lower than that of the average North American.
--  Nuclear fuel resources are no more abundant than oil or gas
--  nothing suggests that fusion reactors, should they become workable, would have fewer radioactivity problems than fission reactors.
--  Sustainability means exploiting flows, rather than stocks.
--  Human interference includes land-use change, emission into the atmosphere of light-absorbing gases, emission of particulate matter with different size distributions, and injection of chemical pollutants into the atmosphere at various levels.
--  The true variables may be split into the sum of a mean value and a deviation from the mean value, but the latter is neglected in all climate models.
--  32 Many low-latitude deserts are examples of local human climate change
--  32 Global average fossil fuel energy in 1970 was 0.015 W/m²; average of solar is 240 W/m²
--  32  If [all the nuclear] weapons were detonated within a 24-hour interval, the average energy flux would be 5×10^15 W, and if the target area were 10^12 m² , the average heat flux would be 5000 W/m²
-	-  Additional deaths from stratospheric ozone shield being destroyed
+- the average European or Japanese uses about half as much energy as the average North American, but the former have a living standard no lower than that of the average North American.
+- Nuclear fuel resources are no more abundant than oil or gas
+- nothing suggests that fusion reactors, should they become workable, would have fewer radioactivity problems than fission reactors.
+- Sustainability means exploiting flows, rather than stocks.
+- Human interference includes land-use change, emission into the atmosphere of light-absorbing gases, emission of particulate matter with different size distributions, and injection of chemical pollutants into the atmosphere at various levels.
+- The true variables may be split into the sum of a mean value and a deviation from the mean value, but the latter is neglected in all climate models.
+- 32 Many low-latitude deserts are examples of local human climate change
+- 32 Global average fossil fuel energy in 1970 was 0.015 W/m²; average of solar is 240 W/m²
+- 32 If [all the nuclear] weapons were detonated within a 24-hour interval, the average energy flux would be 5×10^15 W, and if the target area were 10^12 m² , the average heat flux would be 5000 W/m²
+  - Additional deaths from stratospheric ozone shield being destroyed
 - 33 energy habits have been formed largely by those who sell fossil energy and energy-using equipment. They are responsible for consumer behavior biased toward buying an additional kWh of energy instead of saving one by efficiency measures, even if they are cheaper
-	-  Common fallacy: "As long as they are cheap, they cannot be scarce!"
--  34 for practical purposes geothermal energy behaves as a renewable resource
+  - Common fallacy: "As long as they are cheap, they cannot be scarce!"
+- 34 for practical purposes geothermal energy behaves as a renewable resource
 
 ## Chapter 2
 
@@ -85,7 +86,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 117 Zonal winds + meridional transport toward equator = trade winds
 - 120 Transport of angular momentum is critical of general circulation. See fig 2.51
 - 126 Frictinal dissipation also happens above ground in atmosphere
-- 132 Evaporation of seawater leaves salt particles in air,  which creates condensation nuclei for water vapor that haven't yet been carried away
+- 132 Evaporation of seawater leaves salt particles in air, which creates condensation nuclei for water vapor that haven't yet been carried away
 - 148 Equation intransitive if dependent on time: non-unique climate functions
 - 148 Equation transitive if not dependent on time: unique climate functions
 - 149 Talks about transitive/intransitive earlier, and how "climate" consequently is defined to be 30 years
@@ -115,7 +116,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 179 Rajputana desert in India was as fertile as a tropical forest only 1000 years ago
 - 180 When a tropical forest is being removed, the soil is no longer able to retain its humidity. Then precipitation runs off along the surface, and the soil becomes still drier. The humus layer is washed away and a solid crust of clay is developed. Weathering of this dry soil may greatly increase the particle content of the atmosphere
 - 182 silver iodide crystals for cloud making. Particle emissions (e.g., from industry) in a certain size range may provide an unintended source of cloud condensation nuclei.
-- 183 aerosols in air can heat up or cooldown earth. "cooling effect dominates if the albedo as of the Earth’s surface is below 0.6 and that the heating effect dominates if as is above 0.6 (snow and ice), fairly independently of other parameters" (shortwave radiation). "increase in atmospheric aerosol content will lead to a decrease in temperature". However, (184)  infrared radiation to space is little affected by the presence of an aerosol layer 
+- 183 aerosols in air can heat up or cooldown earth. "cooling effect dominates if the albedo as of the Earth’s surface is below 0.6 and that the heating effect dominates if as is above 0.6 (snow and ice), fairly independently of other parameters" (shortwave radiation). "increase in atmospheric aerosol content will lead to a decrease in temperature". However, (184) infrared radiation to space is little affected by the presence of an aerosol layer
 - 185 "present content of CO2 is already big enough to imply a nearly total absorption at λ=1.5E-5 m. It is therefore unlikely that even a dramatic increase in CO2 could have consequences similar to the addition of a small amount of NH3"
 - 186 "temperature change of just 1 or 2 globally may have serious effects on climate, particularly if the local temperature change is amplified in sensitive regions, such as the polar regions. " While temp increases 2-3K for surface in mid-heights, in poles it can be as much as 10K.
 - 186 Heating also causes water vapor, which also acts like greenhouse gas
@@ -142,7 +143,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 
 - 3.1 Talks a lot about reflected radiation
 - 235 talks about why measured values of radiation is better.
-- Fig 3.3  - turbudity is not very consistent across months and days
+- Fig 3.3 - turbudity is not very consistent across months and days
 - Fig 3.4 and 3.6 Effect of different clouds on radiation flux
 - Fig 3.7 Radiation on inclined surface, for different albedo and Fig 3.8 for different cloud cover
 - 245 "radiation decreases with increasing cloud cover, but for north-facing [opposite of sun] slopes the opposite takes place. "
@@ -160,7 +161,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 3.2.1.1 describes amount of horizontal wind based on different height
 - Fig 3.27-28 shows wind energy based on location
 - 267 Wind-height relationship is less apparant in summer where wind is more turbulent due to rising air
-- 3.2.2 Wind energy is _significantly_ higher at higher altitudes (~10 km above sea level), and over oceans. 
+- 3.2.2 Wind energy is _significantly_ higher at higher altitudes (~10 km above sea level), and over oceans.
 - 271 Power is dependent on wind speed by a factor of a cube. So "average" wind speed cannot simply be plugged in to estimate average power. Average power is _significantly_ higher.
 - 271 Wind can yaw, so have a yawing device to get more accurate data
 - 272 seasonal variations in wind is higher based on height
@@ -193,45 +194,45 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 
 ### Other
 
--  300 food intake accounts only for 25%-30% of man’s total acquisition of energy during a summer day in central Europe
+- 300 food intake accounts only for 25%-30% of man’s total acquisition of energy during a summer day in central Europe
 
 #### Salinity, Currents, etc.
 
--  301 over half the solar energy absorbed by the oceans is used to evaporate water
--  301 water stays where it is longer the deeper it is; can be hundreds of years in deepest parts
--  301 if water is brought up from deep seawater, more CO2 will transfer from ocean to atmosphere
--  304 Water currents are warm only when they pass through equatorial region; most of north gets warm and south gets cold (because water originates from Antarctic to up and then to North)
+- 301 over half the solar energy absorbed by the oceans is used to evaporate water
+- 301 water stays where it is longer the deeper it is; can be hundreds of years in deepest parts
+- 301 if water is brought up from deep seawater, more CO2 will transfer from ocean to atmosphere
+- 304 Water currents are warm only when they pass through equatorial region; most of north gets warm and south gets cold (because water originates from Antarctic to up and then to North)
 
 #### Geothermal
 
--  305 energy extraction by using soil/rock temperature is negligible
--  306 energy extraction by using air temperatures is negligible (would require several kilometers of air)
--  307 hot springs or underground steam happens in very places. Superheated brine is more common but hard to find
--  307 dry rocks accumulate heat, but have low surface area. reservoir may not be large enough to be renewable: 240E9W for 50 years
--  307 radioactive materials more common in granite-containing continental shields
--  308 radiogenic heat (heat due to radiation) decreases with depth; very little happens in mantle or core
--  309 short-lived isotopes are absent; this is supported by constant-temperature earth during formation theory, since they'd be responsible for heat
--  310 geothermal is renewable because relative heat outflow of earth is 2.4E-10/year; similar to sun - sun also does change, but in order of billions of years (in case of sun, it actually increases)
--  311 circulating water is most appealing heat transfer method for geothermal
+- 305 energy extraction by using soil/rock temperature is negligible
+- 306 energy extraction by using air temperatures is negligible (would require several kilometers of air)
+- 307 hot springs or underground steam happens in very places. Superheated brine is more common but hard to find
+- 307 dry rocks accumulate heat, but have low surface area. reservoir may not be large enough to be renewable: 240E9W for 50 years
+- 307 radioactive materials more common in granite-containing continental shields
+- 308 radiogenic heat (heat due to radiation) decreases with depth; very little happens in mantle or core
+- 309 short-lived isotopes are absent; this is supported by constant-temperature earth during formation theory, since they'd be responsible for heat
+- 310 geothermal is renewable because relative heat outflow of earth is 2.4E-10/year; similar to sun - sun also does change, but in order of billions of years (in case of sun, it actually increases)
+- 311 circulating water is most appealing heat transfer method for geothermal
 
 #### Salt concentration
 
--  314 chemical energy: solutions < pure solvent
--  Fig 3.70 shows osmotic pump
--  315 Harnessing energy via osmotic pump is about 3E12 W
+- 314 chemical energy: solutions < pure solvent
+- Fig 3.70 shows osmotic pump
+- 315 Harnessing energy via osmotic pump is about 3E12 W
 
 #### Nuclear
 
--  316 Infamous Einstein equation
--  316 minimum atomic energy is for iron
--  316 most heavier-than-iron elements don't decay to iron since potential barriers exist to reach iron state; the barrier is hard to overcome due to temps on earth
--  Fig 3.71 very useful for nuclear energy
--  317 even in uranium, quantum tunelling has to happen
--  317 using radiation to force radioactive material to fission is called induced fission
--  318 The reason why further fission processes yielding nuclei in the Fe region do not occur is the high barrier against
-fission for nuclei with Z2/A <= 30 and the low probability of direct fission
+- 316 Infamous Einstein equation
+- 316 minimum atomic energy is for iron
+- 316 most heavier-than-iron elements don't decay to iron since potential barriers exist to reach iron state; the barrier is hard to overcome due to temps on earth
+- Fig 3.71 very useful for nuclear energy
+- 317 even in uranium, quantum tunelling has to happen
+- 317 using radiation to force radioactive material to fission is called induced fission
+- 318 The reason why further fission processes yielding nuclei in the Fe region do not occur is the high barrier against
+  fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 318 10E22 J of energy from fissile material recoverable
-- 318 the recoverable amounts of fissionable elements do not appear large compared with the possible requirements of man during the kind of time span for which he may hope to inhabit the planet Earth. 
+- 318 the recoverable amounts of fissionable elements do not appear large compared with the possible requirements of man during the kind of time span for which he may hope to inhabit the planet Earth.
 - 319 The potential nuclear energy released by one of the deuterium to helium fusion chains is thus 10E13 J per meter cube of seawater, or over 10E31 J for all the oceans
 - 319 Nuclear fission for energy is a concern with respect to wastes, however, " These dangers exist equally for the use of nuclear reactions in explosive weapons, in addition to the destructive effect of the explosion itself, and in their case no attempt is made to confine or to control the radioactive material."
 - 319 "very limited amounts of fissile resources available for this mode of operation, comparable at most to those of oil. Nuclear fusion research has been ongoing for more than 50 years, so far with little success. Commercialization is still predicted to happen some 50 years into the future, just as it was at any earlier stage.
@@ -305,7 +306,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 409 Synchronous DC generators continuously ramp up power with spin speed
 - 4.3.2.3 deals with cases where wind comes at an angle. Talks about coning as well to reduce effect of too much wind
 - 413 wind is turbulent in wake (behind turbine), but gets quickly restored. See fig 4.28 and 4.29. Restoration is much faster than model predicts.
-- 415 for placement of turbines in wind farm, "suitable distance would seem to be 5-10 rotor diameters". However,  If, on the other hand, several wind directions are important, and the converters are designed to be able to “yaw against the wind,” then the distance required by wake considerations should be kept in all directions.
+- 415 for placement of turbines in wind farm, "suitable distance would seem to be 5-10 rotor diameters". However, If, on the other hand, several wind directions are important, and the converters are designed to be able to “yaw against the wind,” then the distance required by wake considerations should be kept in all directions.
 - 417 chained wind turbines (one behind another) isn't very ideal, because accumulative effect of wind reduction. This could cause climate change.
 - 417 3D CFD model needed to understand shadow model because of difference between theory and reality. E.g. Fig 4.29
 - 419 Blades supposed to last 25 years, so flexing blades are bad idea
@@ -322,7 +323,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 425 Betz limit can be exceeded by having crosswind, like with ducted rotors.
 - 4.3.4 talks about ducted rotors, and they increase coefficient of power over 1, but have too much material needs
 - 4.3.5 simulates a ducted rotor by having angular blades at wing tips, which acts like a duct
-- 427 Ratio of vane velocity over duct velocity  maybe 10 or higher typically. Can make coefficient of power be 1.2, twice the Betz limit
+- 427 Ratio of vane velocity over duct velocity maybe 10 or higher typically. Can make coefficient of power be 1.2, twice the Betz limit
 - 429 Artificial tornado induced wind turbines; however, they seem to need massive structures
 - 430 Putting turbines on buildings induces vibrations in buildings
 - 430 Turbines can be mounted on balloons and have them counter rotate; will require power transmission wires of sufficient strength.
@@ -370,7 +371,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 455 Wavelengths not absorbed by material is transparent to that wavelength
 - 457 Voltage and current are not fixed to obtain max power.
 - 458 Eq 4.105 is open-circuit voltage
-- 459 Max efficiency is smaller than 1 because of radiation not being absorbed when outside of semiconductor band gap, and max power ≠ max volt * max current; as others, to get energy in finite time, non-ideal ratios have to be used. External potential has max value.
+- 459 Max efficiency is smaller than 1 because of radiation not being absorbed when outside of semiconductor band gap, and max power ≠ max volt \* max current; as others, to get energy in finite time, non-ideal ratios have to be used. External potential has max value.
 - Fig 4.53 Max efficiency of p-on-n cell
 - 460 scatterd solar radiation is still useful
 - Fig 4.54 Efficiency between p and n component in cell
@@ -424,7 +425,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 498 maximum average gain from a fully tracking system (less than a factor 2) would rarely justify the extra cost, which, at least at present, exceeds the cost of doubling the collector area.
 - 498 Evacuation of the substantial space between absorber and cover is not practical
 - 499 One extreme is a point-focusing device, such as the parabolic reflectors
-- 499  absorber dimension would have to be chosen so that it covered the bulk of the image under most conditions. 
+- 499 absorber dimension would have to be chosen so that it covered the bulk of the image under most conditions.
 - 499 either the collector has to fully track the Sun or the absorber has to be moved to the focal point corre- sponding to a given direction to the Sun
 - 499 scatter radiation is not available for use
 - Fig 4.87, 4.88, and 4.89 shows some concentrators
@@ -444,7 +445,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - 513 "only one kind of storage is necessary, but, with both hot and cold storage, the sys- tem can simultaneously cover both heating needs (e.g., hot water) and cooling needs (e.g., air conditioning)." This sounds like conversation between Type 4 and Type 5 Geothermal energy
 - 513 absorbent-refrigerant mix can be LiBr-H2O or H2O-NH3. lithium—bromide—water mix is more suitable for flat-plate solar collector systems, having a higher efficiency than the water—ammonia mix for the temperatures characteristic of flat-plate collectors
 - Fig 4.101 solar water pump using Stirling cyle
-- 514  cooling by means of solar energy may also be achieved by first con- verting the solar radiation to electricity then using the electricity to drive a thermodynamic cooling
+- 514 cooling by means of solar energy may also be achieved by first con- verting the solar radiation to electricity then using the electricity to drive a thermodynamic cooling
 - Fig 4.102 solar water pump using Rankine cycle
 - Fig 4.103 solar still for water purification
 
@@ -456,15 +457,15 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - Fig 4.104 basic schematic of fuel cell
 - 519 phi is the quantity usually referred to as the electromotive force (e.m.f.) of the cell, or standard reversible potential of the cell,
 - 520 ideal efficiency of hydrogen-oxygen fuel cell is 0.83
-- 520  loss mechanisms are blocking of pores in the porous electrodes [e.g., by piling up of the water formed at the positive electrode in process (4.145)], internal resistance of the cell (heat loss), and the buildup of potential barriers at or near the electrolyteelectrode interfaces. Most of these mechanisms limit the reaction rates and thus tend to place a limit on the current of ions that may flow through the cell
+- 520 loss mechanisms are blocking of pores in the porous electrodes [e.g., by piling up of the water formed at the positive electrode in process (4.145)], internal resistance of the cell (heat loss), and the buildup of potential barriers at or near the electrolyteelectrode interfaces. Most of these mechanisms limit the reaction rates and thus tend to place a limit on the current of ions that may flow through the cell
 - Fig 4.105 Fuel cell electric potential w.r.t. current
 - 521 optimum fuel cell current is less than max; this is where max efficiency is obtained
 - 521 If a fuel cell is combined with an electrolysis unit, a regenerative system is obtained, and if hydrogen and oxygen can be stored, an energy storage system, a battery, results. The electric energy required for the electrolysis need not come from the fuel cell, but may be the result of an intermittent energy conversion pro- cess (e.g., wind turbine, solar photovoltaic cell, etc.).
 - 521 Directly using light to electrodes is possible using p- and n-type semiconductors
 - 522 hybrids between either battery electric vehicles or fuel cell vehicles and conventional inter- nal combustion engine vehicles may smooth the transition.
 - 522 some fuel cell technologies include: phosphoric acid cells (needs high temp, alkaline cells (these struggle with CO2 presence), and proton exchange membrane (PEM)
-- 523 membrane material for PEM can include polyperfluorosulfonic  acid
-- 523 platinum or Pt—Ru alloy catalyst is used to break hydrogen molecules  at negative electrode
+- 523 membrane material for PEM can include polyperfluorosulfonic acid
+- 523 platinum or Pt—Ru alloy catalyst is used to break hydrogen molecules at negative electrode
 - 523 The efficiency of conversion for small systems is between 30% and 50%, but a 50 kW system has recently shown an efficiency in the laboratory of near 60% . HIgher efficiency for partial loads
 - Fig 4.106 show PEM schematic
 - 524 hydrogen storage is a problem. Metal hydride or carbon nanofiber stores could be used.
@@ -473,7 +474,7 @@ fission for nuclei with Z2/A <= 30 and the low probability of direct fission
 - Fig 4.108 shows methanol-to-hydrogen vehicle
 - 525 molten carbonate fuel cell uses carbonate as hydrogen and oxygen converter
 - 526 solid oxide fuel cell uses high temps, and Current conversion efficiency is about 55%, but it could reach 70—80% in the future
-- 526 there is a need for new safety-related studies, particularly where hydrogen is stored onboard in containers at pressures typically of 20—50 MPa. 
+- 526 there is a need for new safety-related studies, particularly where hydrogen is stored onboard in containers at pressures typically of 20—50 MPa.
 
 ### Other Electrochemical
 
@@ -544,7 +545,7 @@ Real page number in 517, pdf page number is 527
 - 549 129 kg of CO2 reduced for every m³ of biomass converted to biogas!
 - 549 other environmental effects are possible, but can be easily mitigated (NOx emissions, nutrient emissions, odors, etc.)
 - 550 photolysis exists, but better if biology is used for photolysis
-- 550 in many cases, making fossil fuels 'cleaner', like coal to gas, creates more emissions. 
+- 550 in many cases, making fossil fuels 'cleaner', like coal to gas, creates more emissions.
 - 550 methane could be synthesized in sites of coal mining by directly converting the carbon to methane and water. Lurgi fixed-bed gasifier and Keppers-Totzek gasifier; both have low efficiencies
 - Fig 4.123 making synthetic natural gas using coal
 - 552 equivalenc ratio is ratio of oxygen available to oxygen that would have allowed complete combustion
@@ -687,10 +688,11 @@ PDF 579 = 570 actual
 - 644 superconductivity can disappear if too much magnetic field; only type II superconductors are useful
 
 Mini Projects
+
 - Massachusetts Total Potential for Solar 2023.
-	- Map. [Link](https://technicalpotentialofsolar-ma-synapse.hub.arcgis.com/pages/main-map).
-	- Documentation. [Link](https://www.mass.gov/doc/technical-potential-of-solar-in-massachusetts-report/download).
- 
+  - Map. [Link](https://technicalpotentialofsolar-ma-synapse.hub.arcgis.com/pages/main-map).
+  - Documentation. [Link](https://www.mass.gov/doc/technical-potential-of-solar-in-massachusetts-report/download).
+
 ## Chapter 6: Energy Systems Planning
 
 PDF pages is 7 pages ahead than actual page number
@@ -785,8 +787,8 @@ PDF pages is 7 pages ahead than actual page number
 - 771 high storage-cycle efficiency achievable via flywheel storage, pumped hydro storage, and superconducting storage. These are needed for short-term stores.
 - 771 setting wind up for peak-load has benefit of being able to pre-emptively charge for peak, and displace peak-load fossil units which are expensive
 - 773 "modest storage leads to a substantial improvement in availability, but
-improvements above availabilities of 75%-80% come much more slowly and
-require storage sizes that can no longer be characterized as short-term stores"
+  improvements above availabilities of 75%-80% come much more slowly and
+  require storage sizes that can no longer be characterized as short-term stores"
 - Fig 6.82 shows that, as short-term storage capacity increases, the energy fluctuations are decreased at a decreasing rate. However, fig 6.83 shows that as short-term storage capacity is increased, their charge/discharge cycles increase at a decreasing rate.
 - 775 "the performance of a store indicate that the improvement per unit of storage capacity is high at first, but that each additional storage unit above ts ts=70 h gives a very small return."
 - 777 peak load operation: "the storage size required to reach an 80% availability increases with the peak-load time fraction, but, relative to the capacity of the wind energy converters, the trend is decreasing or constant"
@@ -858,21 +860,21 @@ PDF 860 = book 853
 
 - 879 "people place a high value on having as much control as possible over their lives and specifically over their energy provision, even at a premium cost. "
 - 879 "Initially, the distances were seen as a positive development, because homes and children were separated from polluted cities and industrial workplaces, but today, pollution is unacceptable and therefore has been reduced, except for that from automobile exhaust, which is strangely regarded as a necessary evil. "
-- 881 global GNP has been increasing. worldwide sum of foreign payments must be 0, so some countries are indebted to others. 
+- 881 global GNP has been increasing. worldwide sum of foreign payments must be 0, so some countries are indebted to others.
 - 882 "Hidden unemployment occurs if there is not enough meaningful work available for distribution among the work force"
 - 882 "conservation should be given priority, as long as the cost of saving one energy unit is lower than that of producing one "
 - 883 " employment or “work” is in itself not a goal of society, and unemployment can always be eliminated by a distribution procedure that simply shares the available work. However, meaningful work for each individual may well be a social goal"
 - 883 "if the investments and choices of energy supply system are made by individual citizens then the government has to use either compulsory regulations or taxation/subsidies to influence the choice of systems."
 - 885 annuity loans are better than index loans for renewables
 - 885 many government funds for research is often dual-purpose support, such as offering energy people with military/space tech; the optimality of this is not well defined
-- 885 subsidy policy has to be done right. Introduction of wind power in 1975 via subsidies failed in many countries. 
+- 885 subsidy policy has to be done right. Introduction of wind power in 1975 via subsidies failed in many countries.
 - 888 in general, early privatization of energy sector led to poorer service, higher prices, and low development efforts
 - 888 to combat challenges with privatilation, power industry separated into producers/transmitters/distributors, and additional legislation imposed
 - 890 "the only possible solution to such concerns is to surround the energy supply sector with so much regulation that the owners of the production and grid system do not have any room left to maneuver—in which case it would be simpler to retain public ownership."
 
 ### Life cycle analysis/assessment
 
-- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political. 
+- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political.
 - 7.3.1 talks about how to do life-cycle analysis
 - 894 "impacts found in the literature are normally divided into direct and indirect, and the indirect ones are distributed over their origin"
 - 894 In general, be careful of double counting! Especially for indirect costs!

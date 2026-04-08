@@ -1,0 +1,55 @@
+---
+layout: page
+---
+{{ content }}
+
+{% assign notes_collection = site[page.collection] | default: site.notes %}
+{% assign filtered_notes = '' | split: '' %}
+
+{% if page.tag_filter %}
+  {% for item in notes_collection %}
+    {% if item.tags contains page.tag_filter %}
+      {% assign filtered_notes = filtered_notes | push: item %}
+    {% endif %}
+  {% endfor %}
+{% elsif page.category_filter %}
+  {% for item in notes_collection %}
+    {% if item.categories contains page.category_filter %}
+      {% assign filtered_notes = filtered_notes | push: item %}
+    {% endif %}
+  {% endfor %}
+{% elsif page.year_filter %}
+  {% for item in notes_collection %}
+    {% assign item_year = item.date | date: '%Y' %}
+    {% if item_year == page.year_filter %}
+      {% assign filtered_notes = filtered_notes | push: item %}
+    {% endif %}
+  {% endfor %}
+{% else %}
+  {% assign filtered_notes = notes_collection %}
+{% endif %}
+
+{% if filtered_notes.size > 0 %}
+  <ul class="notes-filtered-list" style="list-style: none; padding: 0;">
+    {% for item in filtered_notes reversed %}
+      <li style="margin-bottom: 0.75rem;">
+        <a href="{{ item.url | relative_url }}"
+          ><strong>{{ item.title }}</strong></a
+        >
+        {% if item.author -%}
+          <span style="color: var(--global-text-color-light, #666);">— {{ item.author }}</span>
+        {%- endif %}
+        &nbsp;<em style="font-size: 0.9rem;">{{ item.date | date: '%B %Y' }}</em>
+        {% if item.stars %}
+          &nbsp;
+          {% assign fs = item.stars | floor %}
+          {% for i in (1..fs) -%}
+            <i class="fa-solid fa-star fa-xs"></i>
+          {%- endfor %}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No notes found.</p>
+{% endif %}

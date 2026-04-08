@@ -1,0 +1,18 @@
+{% if include.path %}
+  <div class="pdf-viewer-container">
+    <iframe
+      src="{{ include.path | relative_url }}"
+      title="{{ include.title | default: 'PDF Document' }}"
+      width="100%"
+      style="height: 80vh; min-height: 600px; border: 1px solid #ccc; border-radius: 4px; display: block; margin: 0 auto;"
+    >
+      <p>
+        Your browser does not support inline PDF viewing.
+        <a href="{{ include.path | relative_url }}" target="_blank"> <i class="fa-solid fa-file-pdf"></i> Download the PDF </a> instead.
+      </p>
+    </iframe>
+    <p style="text-align: center; font-size: 0.85rem; margin-top: 0.5rem; color: var(--global-text-color-light, #666);">
+      <a href="{{ include.path | relative_url }}" target="_blank"> <i class="fa-solid fa-arrow-up-right-from-square"></i> Open in a new tab </a>
+    </p>
+  </div>
+{% endif %}

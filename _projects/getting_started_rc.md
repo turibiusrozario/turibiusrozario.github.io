@@ -233,6 +233,7 @@ for this can be found <a
 href="https://drive.google.com/file/d/1zS25tqwQ07R53doif9VbXIQ5sc2w6WNp/view?usp=sharing">here</a>.
 
 The plans for the work is below:
+
   <div class="post" style="width:100%; margin:0 auto;">
     <object data="../../assets/pdf/projects-getting_started-design.pdf"
             type="application/pdf"
@@ -241,4 +242,3 @@ The plans for the work is below:
   </div>
 This trainer flying wing can be built in less than 4 hours for a beginner, and
 1.5 hours for someone with experience.
-

@@ -41,4 +41,3 @@ This website showcases my projects and skills for recruiters and
 recommenders, provide tutorials and guides for hobbyists interested in the work
 I do, act as a collection of resources and findings for the
 curious, and just a space for me to let out some of my thoughts to the world.
-

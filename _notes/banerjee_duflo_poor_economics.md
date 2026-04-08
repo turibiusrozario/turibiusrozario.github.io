@@ -1,5 +1,5 @@
 ---
-layout: book-review
+layout: note-review
 title: Poor Economics
 author: Abhijit Banerjee, Esther Duflo
 # cover: assets/img/book_covers/sorensen_renewable_energy.jpg
@@ -26,7 +26,7 @@ This book felt a bit sad because a lot of the things that it described were thin
 - 152: Governments typically do not intervene for small scale injuries
 - 153: Asking questions about people's health increases likelihood of them getting health insurance
 - 153: Trust increases likeliness of accepting insurance
-- 154: Pay now get returns later are very rarely taken positively. 
+- 154: Pay now get returns later are very rarely taken positively.
 - 161: In long run, poor places that had more banks form became poorer. Loans subsidized by government often become target for political agendas.
 - 162: Informal loans are very often returned, though there may be some delays.
 - 162: "One lends only to the rich" (French saying)
@@ -77,7 +77,7 @@ This book felt a bit sad because a lot of the things that it described were thin
 - 237 However, when news about the lack of funding (above) was released, 80% of funds started flowing into schools
 
 - 245 Simply threats of audits can reduce corruption. Even fear of "fake audits" is enough.
-- 248 Inviting people to lead and speak out *significantly* increases attendance, speaking participation, and minority participation (especially poor)
+- 248 Inviting people to lead and speak out _significantly_ increases attendance, speaking participation, and minority participation (especially poor)
 - 248 Letting children take feedback paper back to parents than letting government do it significantly increased criticism of government.
 - 250 Even when government is supposedly dominated by majority and elites, minorities (women in this case) still did a lot more for the local. Women leaders are less inclined to take bribes. Women leaders are less educated and less politically experienced, but they do overall do more change than male counterparts
 - 251 Votes are given more towards candidates who claim they'll do more for the voters of that specific region, than for voters everywhere.
@@ -92,23 +92,24 @@ This book felt a bit sad because a lot of the things that it described were thin
 - 263 "voters are indeed prepared to support those politicans who take seriously the job to design and explain social policies" (Wanthekon 2006 study)
 
 268 Five key lessons:
+
 1. Poor often lack critical pieces of information and believe things that are not true.
-	Examples: benefits of immunization, education, quantity of fertilizer to use, how HIV infection works, actions of politicians.
-	Being in the dark has consequences: voting for the corrupt, unprotected sex with HIV infected individuals, not getting complete sequence of immunization.
-	Traits needed in information campaign: Give information that is not necessarily known, do so in attractive simple way (film, play, TV, etc.), come from seemingly credible source.
+   Examples: benefits of immunization, education, quantity of fertilizer to use, how HIV infection works, actions of politicians.
+   Being in the dark has consequences: voting for the corrupt, unprotected sex with HIV infected individuals, not getting complete sequence of immunization.
+   Traits needed in information campaign: Give information that is not necessarily known, do so in attractive simple way (film, play, TV, etc.), come from seemingly credible source.
 2. Poor bear responsibility for too many aspects of their lives.
-	Examples: wealthy don't have to worry about chlorine in water, poor can't afford fortified breakfast cereal, poor have no automatic saving mechanism, wealthy have social security so less need of children and luck.
-	Making good solutions easy helps a lot: making fortified/good stuff cheap, making fortified things be default, etc.
+   Examples: wealthy don't have to worry about chlorine in water, poor can't afford fortified breakfast cereal, poor have no automatic saving mechanism, wealthy have social security so less need of children and luck.
+   Making good solutions easy helps a lot: making fortified/good stuff cheap, making fortified things be default, etc.
 3. Some markets are missing for the poor / poor face unfavorable prices in them.
-	Example: Interest rates for savings is not high enough to negate cost of withdrawal and money management, loan interest rates are higher for the poor, health insurance is non-existent.
-	Example solutions: Microcredit, electronic transfer system, unique identification for proof of payments, giving out cheap things for free (since managing funds for payments just makes it *more* unprofittable).
-	Key note: These services don't come into exist naturally; governmental or external support needed for creation.
+   Example: Interest rates for savings is not high enough to negate cost of withdrawal and money management, loan interest rates are higher for the poor, health insurance is non-existent.
+   Example solutions: Microcredit, electronic transfer system, unique identification for proof of payments, giving out cheap things for free (since managing funds for payments just makes it _more_ unprofittable).
+   Key note: These services don't come into exist naturally; governmental or external support needed for creation.
 4. Poor countries are not doomed to failure.
-	Most sources of failures are: corruption (elites attempting to hold on to power), 3I's (ignorance, ideology, inertia), over supporting certain ideas without evidence (dams, barefoot doctors, etc.).
-	Lot of opportunities for improvement exist: getting feedback from people who are affected by *inviting* them, monitoring/auditing government, sharing audits with people, publicizing information on public services properly.
+   Most sources of failures are: corruption (elites attempting to hold on to power), 3I's (ignorance, ideology, inertia), over supporting certain ideas without evidence (dams, barefoot doctors, etc.).
+   Lot of opportunities for improvement exist: getting feedback from people who are affected by _inviting_ them, monitoring/auditing government, sharing audits with people, publicizing information on public services properly.
 5. Stopping self-fulfilling prophecies.
-	Examples: children give up on school when teachers/parents signal they aren't smart enough, nurses don't show up to work because no one expects them there.
-	Solutions: show counter-examples (female village leaders, teachers telling students that their job was just to educate), continue momentum (using self-fulfilling prophecy for growth).
+   Examples: children give up on school when teachers/parents signal they aren't smart enough, nurses don't show up to work because no one expects them there.
+   Solutions: show counter-examples (female village leaders, teachers telling students that their job was just to educate), continue momentum (using self-fulfilling prophecy for growth).
 
 - 272 Small actions do have massive impacts. Evidence: deworming tablets, better nutrition, etc.
 - 273 Eradicating poverty is not a single action. Poverty has existed for thousands of years, and we'll likely have to work decades to get rid of it.
