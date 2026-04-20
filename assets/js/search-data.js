@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-nextcloud-guide",
+        },{id: "post-useful-linux-applications",
+        
+          title: "Useful *Linux* Applications",
+        
+        description: "Linux applications that I use commonly",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/useful_linux_applications/";
+          
+        },
+      },{id: "post-nextcloud-guide",
         
           title: "Nextcloud Guide",
         
@@ -161,6 +172,11 @@ ninja.data = [{
           description: "DIY dehydrator and drybox for 3D printing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dehydrator/";
+            },},{id: "projects-dovetail-freebie",
+          title: 'Dovetail Freebie',
+          description: "A freestyle 5&quot; quadcopter.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dt_fb/";
             },},{id: "projects-dovetail-firestyle",
           title: 'Dovetail Firestyle',
           description: "A cinematic/freestyle 6&quot; quadcopter.",
@@ -176,11 +192,6 @@ ninja.data = [{
           description: "Roll and tilt gimbal with headtracking",
           section: "Projects",handler: () => {
               window.location.href = "/projects/headtracker_prototype/";
-            },},{id: "projects-keyboard-navigation-enhancement",
-          title: 'Keyboard Navigation Enhancement',
-          description: "Drastically improving navigation speed on Windows",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/keyboard_enhancement_suite/";
             },},{id: "projects-suas-2025-competition",
           title: 'SUAS 2025 Competition',
           description: "Recap of the 2024-2025 SUAS competition",
