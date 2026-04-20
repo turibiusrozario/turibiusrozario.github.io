@@ -5,6 +5,7 @@ description: Recap of the 2024-2025 SUAS competition
 img: assets/img/projects-thumbnail-suas2025.png
 importance: 1
 category: Competitions
+selected: true
 related_publications: false
 ---
 

@@ -3,7 +3,8 @@ layout: page
 title: "Getting Started: Beginner RC Plane"
 description: Detailed tutorial on getting started to your first RC plane
 img: assets/img/UAVs-thumbnail-getting_started.png
-importance: 2
+importance: 1
+selected: true
 category: UAVs
 related_publications: false
 ---
@@ -242,3 +243,11 @@ The plans for the work is below:
   </div>
 This trainer flying wing can be built in less than 4 hours for a beginner, and
 1.5 hours for someone with experience.
+
+Here's a flight footage of several of such trainers in the air:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/projects-trainer.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>

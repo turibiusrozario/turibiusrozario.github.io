@@ -7,6 +7,15 @@ nav: true
 nav_order: 4
 ---
 
+# Transient Behavior of Electrochemically Induced Oxygen Partial Pressure | Dr. Srikanth Gpalan
+
+## January 2026 &mdash; Present
+
+My current research involves looking at the solid oxide electrolysis cells. In
+particular, these cells often fracture due to oxygen partial pressure build up
+near the oxygen electrode. While there has been many studies on the steady state
+conditions of this pressure, there is little research on the transient behavior.
+
 # Parameter Optimization | Dr. Ankit Goel
 
 ## November 2021 &mdash; January 2025

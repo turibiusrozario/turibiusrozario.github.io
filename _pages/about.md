@@ -9,10 +9,15 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Alston, MA 02134</p>
+    <p>Boston, MA 02134</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+featured_projects:
+  enabled: true
+  scrollable: false
+  limit: 3
 
 announcements:
   enabled: false # includes a list of news items
