@@ -1,9 +1,9 @@
 <div class="container mt-3">
-  {% assign featured_projects = site.projects | where: "selected", true %}
+  {% assign featured_projects = site.projects | where: 'selected', true %}
   {% if page.featured_projects.limit %}
     {% assign featured_projects = featured_projects | slice: 0, page.featured_projects.limit %}
   {% endif %}
-  
+
   {% for project in featured_projects %}
     <div class="row g-3 mb-3">
       <div class="col-12">
@@ -11,19 +11,30 @@
           <div class="row g-0">
             {% if project.img %}
               <div class="col-md-3">
-                <img src="{{ project.img | relative_url }}" class="img-fluid rounded-start" alt="project thumbnail" style="height: 150px; object-fit: cover;">
+                <img
+                  src="{{ project.img | relative_url }}"
+                  class="img-fluid rounded-start"
+                  alt="project thumbnail"
+                  style="height: 150px; object-fit: cover;"
+                >
               </div>
               <div class="col-md-9">
-            {% else %}
-              <div class="col-12">
-            {% endif %}
                 <div class="card-body">
                   <h5 class="card-title">{{ project.title }}</h5>
                   <p class="card-text small">{{ project.description }}</p>
                   <a href="{{ project.url | relative_url }}" class="btn btn-sm btn-primary">Read more</a>
                 </div>
               </div>
-            </div>
+            {% else %}
+              <div class="col-12">
+                <div class="card-body">
+                  <h5 class="card-title">{{ project.title }}</h5>
+                  <p class="card-text small">{{ project.description }}</p>
+                  <a href="{{ project.url | relative_url }}" class="btn btn-sm btn-primary">Read more</a>
+                </div>
+              </div>
+            {% endif %}
+          </div>
         </div>
       </div>
     </div>
