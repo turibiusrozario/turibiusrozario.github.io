@@ -47,5 +47,3 @@ recommenders, provide tutorials and guides for hobbyists interested in the work
 I do, act as a collection of resources and findings for the
 curious, and just a space for me to let out some of my thoughts to the world.
 
-**NOTICE**: My NextCloud server is down as of 2026-04-22; videos on my website
-will not play. Everything else is working as usual. Sorry! 😔
