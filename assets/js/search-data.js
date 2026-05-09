@@ -152,6 +152,11 @@ ninja.data = [{
           description: "",
           section: "Notes",handler: () => {
               window.location.href = "/notes/sorensen_renewable_energy/";
+            },},{id: "notes-theory-of-heat-transfer",
+          title: 'Theory of Heat Transfer',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/BU_ME519/";
             },},{id: "projects-cube-3000",
           title: 'Cube 3000',
           description: "Oversized fidget cube that also vibrates.",
