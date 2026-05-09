@@ -17,6 +17,6 @@ no_cover: true
 
 ME519 is basically undergraduate thermodynamics, but much more advanced. This
 course was done completely on blackboard (the object, not the software), hence
-this is one of my better notes. 
+this is one of my better notes.
 
 {% include pdf-viewer.liquid path="/assets/pdf/notes-519.pdf" title="BU ME 519 Notes" %}
