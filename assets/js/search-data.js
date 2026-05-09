@@ -152,6 +152,11 @@ ninja.data = [{
           description: "",
           section: "Notes",handler: () => {
               window.location.href = "/notes/sorensen_renewable_energy/";
+            },},{id: "notes-electrochemistry",
+          title: 'Electrochemistry',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/BU_ME545/";
             },},{id: "notes-theory-of-heat-transfer",
           title: 'Theory of Heat Transfer',
           description: "",
