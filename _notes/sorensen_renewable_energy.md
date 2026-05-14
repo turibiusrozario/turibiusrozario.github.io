@@ -10,7 +10,7 @@ tags: science energy
 buy_link: https://eclass.upatras.gr/modules/document/file.php/CMNG2123/2015/2019-2020/renewable%20energy%2C%20third%20edition%20by%20bent%20sorensen.pdf
 date: 2026-03-08
 started: 2025-12-22
-# finished: 2026-03-28
+finished: 2026-05-11
 # released: 2017
 # year: 2025
 stars: 5
@@ -25,13 +25,17 @@ My most favorite parts were all the interjections that the author makes, since i
 
 > In reference to fossil fuels being "cheap": "As long as they are cheap, they cannot be scarce!"
 
-In these notes, page numbers are PDF page numbers, so book page number is PDF page number subtracted by 13. This is the 2017 edition.
+> "Technical feasibility, decent prices, and general public acceptance seem insufficient to persuade policy makers and the industrial lobby in many parts of the world. What additional arguments should be brought forward? Air pollution, green-house gas emissions, fossil resource exhaustion, nuclear accidents, and radioactive waste have all in some measure failed to affect actual political decisions, although few would disagree that these are problems “in the long run.”"
+
+In these notes, page numbers are PDF page numbers, so book page number is PDF page number subtracted by some number. This is the 2017 edition.
 
 ## Chapter 1
 
+Subtract PDF number by 13 in this section to get book page number.
+
 - Only 0.02% (might be a typo, is it 0.2%?) of renewable energy is used by humans
 - Fossil fuels are often cause of national conflicts: disparity b/w geographic availability and demand
-- Woodfuel is most common biofuel. Claims of CO2 neutrality is false because replacement rate is super slow
+- Wood fuel is most common biofuel. Claims of CO2 neutrality is false because replacement rate is super slow
 - Food crops for energy is economically unacceptable (food corps for energy uses too much energy in its own process)
 - Cost of fossil fuels is not strongly coupled with production prices; mainly market and politics
 - Coal, oil, natural gas: $10^{23}$ J recoverable
@@ -41,7 +45,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - The term renewable energy resource is used for energy flows that are replenished at the same rate as they are “used.”
 - energy stores, which are part of the natural process of converting solar energy into heat re-radiation, are also considered renewable energy resources.
 - Human bodies need "new biomass continues to be produced to replace “respiration losses.”"
-- parts of the population today use no more energy than theaverage person during the Neolithic period.
+- parts of the population today use no more energy than the average person during the Neolithic period.
 - Low-latitude regions: houses were built partly underground and the evaporation of soil moisture was utilized to create cool environments for living
 - High-latitude regions: keeping livestock within the living area of the houses, so as to benefit from their respirational heat release.
 - Fig 1.17 and 1.18 are pretty important
@@ -73,7 +77,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 80 Blue light (high frequency) is scattered more, so sky looks blue
 - Fig 2.20 useful for understanding what happens to incoming and outgoing radiation
 - 84 Seawater albedo 0.07. Ice cover albedo 0.3. Land albedo 0.15-0.20 (0.05-0.45). Snow closer to 0.95 if clean, 0.4 if dirty.
-- 91 Availability of solar radition decides deep water photosynthesis
+- 91 Availability of solar radiation decides deep water photosynthesis
 - 93 Atmospheric water content ~0% near poles by volume; 4% near tropics.
 - 97 Rainout = in-cloud absorption of particles into water droplets. Washout = scavenging of particles by falling rain/ice
 - 97 Stratosphere particles detectable since they modify solar radiation transmission
@@ -85,7 +89,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 116 Hadley cell, similar to Meridional cell, but for equator
 - 117 Zonal winds + meridional transport toward equator = trade winds
 - 120 Transport of angular momentum is critical of general circulation. See fig 2.51
-- 126 Frictinal dissipation also happens above ground in atmosphere
+- 126 Frictional dissipation also happens above ground in atmosphere
 - 132 Evaporation of seawater leaves salt particles in air, which creates condensation nuclei for water vapor that haven't yet been carried away
 - 148 Equation intransitive if dependent on time: non-unique climate functions
 - 148 Equation transitive if not dependent on time: unique climate functions
@@ -99,8 +103,8 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 167 Regarding CO2 emissions: "Part of this surplus is absorbed by the oceans, but the process seems unable to keep pace with the rapid growth of CO2 in the atmosphere, so the net result is that about half the extra CO2 injected into the atmosphere is accumulating there. Also, the mixed upper layer of the oceans has a turnover time that is longer than the time scale of human interference with the carbon cycle, so the additional CO2 absorbed by the oceans largely accumulates in the mixed layer, rather than reaching the long-term sink provided by the deep ocean"
 - Fig 2.93 Nitrogen cycle
 - 168 Leafy vegetables useful for nitrogen fixation, and cultivation of these contributes to 50% of nitrogen fixation
-- 169 Fixed nitrogen is limitng factor of plants. Can be helped by nitrogen fixing plants. Nitrogen fixing plants enhanced by fertilizer. Fertilizer by fossil fuels. So plants grown on fossil fuels than solar energy.
-- 169 Ammonifying bacteria = dead organic matter to ammonia. Nitrifying bacteria = oxidize ammonia to nitrite/nitrate. Denitryfing bacteria = undoes nitrogen fixing, converts to gaseous nitrogen on N₂O.
+- 169 Fixed nitrogen is limiting factor of plants. Can be helped by nitrogen fixing plants. Nitrogen fixing plants enhanced by fertilizer. Fertilizer by fossil fuels. So plants grown on fossil fuels than solar energy.
+- 169 Ammonifying bacteria = dead organic matter to ammonia. Nitrifying bacteria = oxidize ammonia to nitrite/nitrate. Denitrifying bacteria = undoes nitrogen fixing, converts to gaseous nitrogen on N₂O.
 - 170 Some of the fertilizer administered to agricultural soils runs off with surface water even before it has been absorbed by plants, and some is carried away by ground water flows
 - 171 Human intervention to climate may be considered to stop _natural_ climate changes
 - 171 Using flows for energy delays re-radiation back to space, but could also end up altering climate. "agriculture is a way of utilizing solar energy that involves changes of large land areas and almost certainly has had climatic impacts during the history of cultivation."
@@ -108,15 +112,15 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 174 dust-triggered temperature drops of 5~10°C for several decades may have been responsible for the extinction of certain animal species (in particular species of dinosaurs, which appear to have had no thermoregulatory mechanism).
 - 175 variations in solar output to small to cause ice age
 - 176 Early anthropogenic practices could have been enough to keep the atmospheric CO2 con- tent so much above 210 ppmv that the previous mechanism of generating a new ice age no longer works
-- 176 most stable state of the Earth is one of complete glaciation: "white earth" has albedo greater than 0.7. (178) However, this is unlikely to be the case of the earth, the albedo is either lower or greehouse effect was stronger
+- 176 most stable state of the Earth is one of complete glaciation: "white earth" has albedo greater than 0.7. (178) However, this is unlikely to be the case of the earth, the albedo is either lower or greenhouse effect was stronger
 - 177 a decrease as small as 1.6% in the solar constant would cause the ice caps to exceed a critical size, beyond which they would continue to grow until the entire Earth was covered.
 - 178 solar constant must have been increasing regularly from a value about 25% lower than the present value during the 4.5 3 109 years since the Sun became a main-sequence star.
 - 179 showcases Bowen ratio, defined as the ratio of sensible and latent heat fluxes
-- 179 savannah grasslands in the tropical regions are entirely man-made, since the natural vegeta- tion of these semi-humid regions is dry, deciduous forest.
+- 179 savannah grasslands in the tropical regions are entirely man-made, since the natural vegetation of these semi-humid regions is dry, deciduous forest.
 - 179 Rajputana desert in India was as fertile as a tropical forest only 1000 years ago
 - 180 When a tropical forest is being removed, the soil is no longer able to retain its humidity. Then precipitation runs off along the surface, and the soil becomes still drier. The humus layer is washed away and a solid crust of clay is developed. Weathering of this dry soil may greatly increase the particle content of the atmosphere
 - 182 silver iodide crystals for cloud making. Particle emissions (e.g., from industry) in a certain size range may provide an unintended source of cloud condensation nuclei.
-- 183 aerosols in air can heat up or cooldown earth. "cooling effect dominates if the albedo as of the Earth’s surface is below 0.6 and that the heating effect dominates if as is above 0.6 (snow and ice), fairly independently of other parameters" (shortwave radiation). "increase in atmospheric aerosol content will lead to a decrease in temperature". However, (184) infrared radiation to space is little affected by the presence of an aerosol layer
+- 183 aerosols in air can heat up or cool down earth. "cooling effect dominates if the albedo as of the Earth’s surface is below 0.6 and that the heating effect dominates if as is above 0.6 (snow and ice), fairly independently of other parameters" (shortwave radiation). "increase in atmospheric aerosol content will lead to a decrease in temperature". However, (184) infrared radiation to space is little affected by the presence of an aerosol layer
 - 185 "present content of CO2 is already big enough to imply a nearly total absorption at λ=1.5E-5 m. It is therefore unlikely that even a dramatic increase in CO2 could have consequences similar to the addition of a small amount of NH3"
 - 186 "temperature change of just 1 or 2 globally may have serious effects on climate, particularly if the local temperature change is amplified in sensitive regions, such as the polar regions. " While temp increases 2-3K for surface in mid-heights, in poles it can be as much as 10K.
 - 186 Heating also causes water vapor, which also acts like greenhouse gas
@@ -127,7 +131,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 193 turnover time for underground water is 200-300 years
 - 196 average heat flux from interior of Earth is only 3E12W or 8E-2W/m². "most of the heat generation takes place within the rocks present in the Earth’s crust."
 - 196 for winds to ocean water, " large fraction of the kinetic energy is transformed into wave motion rather than directly into currents "
-- 197 "Waves may be defined as motion in which the average position of matter (the water “parti- cles”) is unchanged, whereas currents do transport matter. "
+- 197 "Waves may be defined as motion in which the average position of matter (the water “particles”) is unchanged, whereas currents do transport matter. "
 - 199 geostrophic wind = horizontal average wind
 - 205 large gap in wind frequency between 0.5/h and 20/h
 - 206 Talks about why weather forecasts are poor, especially due to turbulence
@@ -143,7 +147,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 
 - 3.1 Talks a lot about reflected radiation
 - 235 talks about why measured values of radiation is better.
-- Fig 3.3 - turbudity is not very consistent across months and days
+- Fig 3.3 - turbidity is not very consistent across months and days
 - Fig 3.4 and 3.6 Effect of different clouds on radiation flux
 - Fig 3.7 Radiation on inclined surface, for different albedo and Fig 3.8 for different cloud cover
 - 245 "radiation decreases with increasing cloud cover, but for north-facing [opposite of sun] slopes the opposite takes place. "
@@ -151,7 +155,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 248 Estimating radiation on inclined surfaces requires separating total radiation into direct and scattered if we only know horizontal plane's radiation
 - 249 scattered radiation is not very isotropic
 - 250 maximum direct average flux is obtained at a tilt angle closer to φ plus or minus the Sun’s declination, which are about ±23° at summer and winter solstices
-- 3.1.4 talks about emission and absorption. Emission and absorption coefficients are typically identical; emittance is property of surface, and absoptance is not necessarily. This section has a lot of content similar to a heat transfer due to radiation course.
+- 3.1.4 talks about emission and absorption. Emission and absorption coefficients are typically identical; emittance is property of surface, and absorptance is not necessarily. This section has a lot of content similar to a heat transfer due to radiation course.
 - 253 Typically emittance is 0.95 for most surfaces
 - 253 "main absorbers in the long-wavelength frequency region are water vapor and CO2", and since CO2 is fairly constant, H2O primarily is responsible for altering long-wavelength flux
 - Eq 3.20 effective temperature of the long- wavelength radiation
@@ -227,7 +231,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 316 minimum atomic energy is for iron
 - 316 most heavier-than-iron elements don't decay to iron since potential barriers exist to reach iron state; the barrier is hard to overcome due to temps on earth
 - Fig 3.71 very useful for nuclear energy
-- 317 even in uranium, quantum tunelling has to happen
+- 317 even in uranium, quantum tunnelling has to happen
 - 317 using radiation to force radioactive material to fission is called induced fission
 - 318 The reason why further fission processes yielding nuclei in the Fe region do not occur is the high barrier against
   fission for nuclei with Z2/A <= 30 and the low probability of direct fission
@@ -310,13 +314,13 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 417 chained wind turbines (one behind another) isn't very ideal, because accumulative effect of wind reduction. This could cause climate change.
 - 417 3D CFD model needed to understand shadow model because of difference between theory and reality. E.g. Fig 4.29
 - 419 Blades supposed to last 25 years, so flexing blades are bad idea
-- 4.3.2.6 discuses offshore wind tubines and having them also potentially float and their challenges. See Fig 4.30 for some ideas
+- 4.3.2.6 discuses offshore wind turbines and having them also potentially float and their challenges. See Fig 4.30 for some ideas
 - 421 One of the leading alternative type of non-conventional wind turbine is the Darrieus rotor
 - 422 Like regular turbine, Darrieus rotor does not benefit from large chord being near axis
 - 422 Shape of Darrieus = troposkien curve (shape of hanging chain)
 - 422 symmetric airfoil for Darrieus
 - Fig. 4.32 Power coefficient of Darrieus
-- 423 Darrieus does not have optimial blade orientation for all rotations
+- 423 Darrieus does not have optimal blade orientation for all rotations
 - 423 Torque while stationary is zero, so needs small Savonius rotor to start spinning
 - 424 Darrieus is self-regulating: will reduce its speed if there's too much wind
 - 424 Multiple rotors with different optimum wind performance may be beneficial for getting more operating hours (Vestas 4-rotor design)
@@ -365,15 +369,15 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 448 Introducing higher atom number impurity in semiconductor makes it n-type: electrons in donor level are very easily excited into conduction band
 - 448 Introducing lower atom number impurities in semiconductor makes it p-type
 - Fig 4.48 showcases p-type and n-type and non-doped
-- 449 p-n junction provides elecrical field to cause solar energy to move electron from p-type to n-type
-- 453 Constant current called dark current is present in photovoltaics
+- 449 p-n junction provides electrical field to cause solar energy to move electron from p-type to n-type
+- 453 Constant current called dark current is present in photovoltaic
 - 455 Total current given by equation 4.102
 - 455 Wavelengths not absorbed by material is transparent to that wavelength
 - 457 Voltage and current are not fixed to obtain max power.
 - 458 Eq 4.105 is open-circuit voltage
 - 459 Max efficiency is smaller than 1 because of radiation not being absorbed when outside of semiconductor band gap, and max power ≠ max volt \* max current; as others, to get energy in finite time, non-ideal ratios have to be used. External potential has max value.
 - Fig 4.53 Max efficiency of p-on-n cell
-- 460 scatterd solar radiation is still useful
+- 460 scattered solar radiation is still useful
 - Fig 4.54 Efficiency between p and n component in cell
 - Fig 4.56 efficiency-temperature dependence for different cells
 - 462 positive temperature coefficient can be obtained by annealing
@@ -394,10 +398,10 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 471 PVT can add another 40% in efficiency
 - 471 organic solar cells, photo-electrochemical (PEC), use organics for creating electricity or chemicals.
 - 471 Carbon capture with ruthenium catalyst. Better to also add titanium di-oxide.
-- 472 Monolayer of PEC dye only absorbs less than 1% of solar radiation; 10% can be achieved by increasing absorption (forcarbon capture)
+- 472 Monolayer of PEC dye only absorbs less than 1% of solar radiation; 10% can be achieved by increasing absorption (for carbon capture)
 - 473 most catalysts are based on platinum
 - Fig 4.65 shows photo-electrochemical solar cell
-- Fig 4.67 shows spectral sensetivity of different dyes for electricity production
+- Fig 4.67 shows spectral sensitivity of different dyes for electricity production
 - 476 ab initio calculation
 - 476 software by Frisch et al. 1998 can be used to get molecular states. Also check Hartree-Foch calculation
 - 480 The photo-electrochemical dye and nanostructure technique has several applications beyond the formation of solar cells. Among them are smart windows, energy storage, environmental monitors, hydrogen production, computer and TV screens also suitable for outdoor use (using the dye as light emitter rather than absorber), and three-dimensional data storage
@@ -418,7 +422,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - Fig 4.84 solar heating system with storage
 - 495 accumulating stored energy diminishes efficiency
 - 496 pump energy of heat transfer fluid is negligible for low fluid speeds, but not for higher since resistances increase with speed
-- 497 Because the time distribution of the load is, in general, barely corre- lated with that of solar energy collection (in fact, it is more “anti-correlated” with it), an instantaneous efficiency, defined as the ratio between the amount of energy delivered to the load area and the amount of incident solar energy, is meaningless. A meaningful efficiency may be defined as the corresponding ratio of average values, taken over a sufficient length of time to accommodate the gross periodicity of solar radiation and of load, i.e., normally a year:
+- 497 Because the time distribution of the load is, in general, barely correlated with that of solar energy collection (in fact, it is more “anti-correlated” with it), an instantaneous efficiency, defined as the ratio between the amount of energy delivered to the load area and the amount of incident solar energy, is meaningless. A meaningful efficiency may be defined as the corresponding ratio of average values, taken over a sufficient length of time to accommodate the gross periodicity of solar radiation and of load, i.e., normally a year:
 
 ### Basic principles of solar (concentrators)
 
@@ -426,7 +430,7 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - 498 Evacuation of the substantial space between absorber and cover is not practical
 - 499 One extreme is a point-focusing device, such as the parabolic reflectors
 - 499 absorber dimension would have to be chosen so that it covered the bulk of the image under most conditions.
-- 499 either the collector has to fully track the Sun or the absorber has to be moved to the focal point corre- sponding to a given direction to the Sun
+- 499 either the collector has to fully track the Sun or the absorber has to be moved to the focal point corresponding to a given direction to the Sun
 - 499 scatter radiation is not available for use
 - Fig 4.87, 4.88, and 4.89 shows some concentrators
 - 4.4.4.3 talks about photo-thermoelectric energy generation
@@ -444,8 +448,8 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - Fig 4.100 is solar absorption cooling system
 - 513 "only one kind of storage is necessary, but, with both hot and cold storage, the sys- tem can simultaneously cover both heating needs (e.g., hot water) and cooling needs (e.g., air conditioning)." This sounds like conversation between Type 4 and Type 5 Geothermal energy
 - 513 absorbent-refrigerant mix can be LiBr-H2O or H2O-NH3. lithium—bromide—water mix is more suitable for flat-plate solar collector systems, having a higher efficiency than the water—ammonia mix for the temperatures characteristic of flat-plate collectors
-- Fig 4.101 solar water pump using Stirling cyle
-- 514 cooling by means of solar energy may also be achieved by first con- verting the solar radiation to electricity then using the electricity to drive a thermodynamic cooling
+- Fig 4.101 solar water pump using Stirling cycle
+- 514 cooling by means of solar energy may also be achieved by first converting the solar radiation to electricity then using the electricity to drive a thermodynamic cooling
 - Fig 4.102 solar water pump using Rankine cycle
 - Fig 4.103 solar still for water purification
 
@@ -457,13 +461,13 @@ In these notes, page numbers are PDF page numbers, so book page number is PDF pa
 - Fig 4.104 basic schematic of fuel cell
 - 519 phi is the quantity usually referred to as the electromotive force (e.m.f.) of the cell, or standard reversible potential of the cell,
 - 520 ideal efficiency of hydrogen-oxygen fuel cell is 0.83
-- 520 loss mechanisms are blocking of pores in the porous electrodes [e.g., by piling up of the water formed at the positive electrode in process (4.145)], internal resistance of the cell (heat loss), and the buildup of potential barriers at or near the electrolyteelectrode interfaces. Most of these mechanisms limit the reaction rates and thus tend to place a limit on the current of ions that may flow through the cell
+- 520 loss mechanisms are blocking of pores in the porous electrodes [e.g., by piling up of the water formed at the positive electrode in process (4.145)], internal resistance of the cell (heat loss), and the buildup of potential barriers at or near the electrolyte/electrode interfaces. Most of these mechanisms limit the reaction rates and thus tend to place a limit on the current of ions that may flow through the cell
 - Fig 4.105 Fuel cell electric potential w.r.t. current
 - 521 optimum fuel cell current is less than max; this is where max efficiency is obtained
 - 521 If a fuel cell is combined with an electrolysis unit, a regenerative system is obtained, and if hydrogen and oxygen can be stored, an energy storage system, a battery, results. The electric energy required for the electrolysis need not come from the fuel cell, but may be the result of an intermittent energy conversion pro- cess (e.g., wind turbine, solar photovoltaic cell, etc.).
 - 521 Directly using light to electrodes is possible using p- and n-type semiconductors
 - 522 hybrids between either battery electric vehicles or fuel cell vehicles and conventional inter- nal combustion engine vehicles may smooth the transition.
-- 522 some fuel cell technologies include: phosphoric acid cells (needs high temp, alkaline cells (these struggle with CO2 presence), and proton exchange membrane (PEM)
+- 522 some fuel cell technologies include: phosphoric acid cells (needs high temp), alkaline cells (these struggle with CO2 presence), and proton exchange membrane (PEM)
 - 523 membrane material for PEM can include polyperfluorosulfonic acid
 - 523 platinum or Pt—Ru alloy catalyst is used to break hydrogen molecules at negative electrode
 - 523 The efficiency of conversion for small systems is between 30% and 50%, but a 50 kW system has recently shown an efficiency in the laboratory of near 60% . HIgher efficiency for partial loads
@@ -504,7 +508,7 @@ Real page number in 517, pdf page number is 527
 - 533 Industrial burners reach up to 60% efficiency
 - 533 Crushing, pelletizing, etc. make biomass more versatile
 - 533 charcoal is more efficient, even if wood-to-charcoal has losses
-- 533 Talks about waterwall incinerator, where biomass is used for district heating in a way where air pollution is minimized
+- 533 Talks about water wall incinerator, where biomass is used for district heating in a way where air pollution is minimized
 - 534 Environmental impacts of biomass via combustion is similar to that of coal and oil combustion. Sulfur and NOX values are lesser.
 - 534 Electrostatic filters can remove up to 99% particulates
 - 534 "When a wood boiler is started, there is an initial period of very visible smoke emission, consisting of water vapor and high levels of both particulate and gaseous emissions. After the boiler reaches operating temperatures, wood burns virtually without visible smoke. When stack temperatures are below 60°C, during start-up and during incorrect burning, severe soot problems arise."
@@ -526,7 +530,7 @@ Real page number in 517, pdf page number is 527
 - Fig 4.116 "Simplified" anaerobic digestion of biomass
 - 539 Last paragraph and next 3 describes the exact process of fig 4.116. Useful!
 - 540 Anaerobic digestion can be done in single chamber, but multiple chambers improve efficiencies: third stage takes weeks, while first two takes hours or days
-- 541 Talks about challenges and solutions to anaerobic digestion; useful to mix and match different biomass for biogass production
+- 541 Talks about challenges and solutions to anaerobic digestion; useful to mix and match different biomass for biogas production
 - 541 biogas conversion efficiency from manure of grown cows and pigs = 42% and 61% efficiency respectively
 - 542 anaerobic fermentation removes pathogens, so useful for cleaning sewage
 - 543 biogas + fertilizer very common in rural India and China
@@ -534,33 +538,33 @@ Real page number in 517, pdf page number is 527
 - 544 biogas is 23 MJ/m3, medium quality; CO2 removal necessary, ideally by water spraying
 - 544 volume penalty for methane storage (vs oil) is 9×
 - Fig 4.118 New Zealand methane production and vehicle use
-- 545 if residues are recyled, little environmental impact from anaerobic digestion. Contaminants that come out are simply returned to soil
+- 545 if residues are recycled, little environmental impact from anaerobic digestion. Contaminants that come out are simply returned to soil
 - 545 because biological organisms used to make biogas, poor performance will warn about problems with source and contaminants.
-- Fig 4.119 biogass single chamber in China
+- Fig 4.119 biogas single chamber in China
 - Fig 4.120 conversion efficiency of biogas. Pig is highest for simple biogas plants.
 - 547 pathogenic bacteria+parasites not removed as much when composting happens
-- 547 citiy sewer can use biogas as energy source to drive sewer cleaning procedure, and even gain energy
+- 547 city sewer can use biogas as energy source to drive sewer cleaning procedure, and even gain energy
 - Fig 4.121 biogas plant diagram, that takes sewer and gets many different things out
-- Fig 4.122 energy efficiency over the years for biogass per biomass production. As much as 90%! (and as little as 20%)
+- Fig 4.122 energy efficiency over the years for biogas per biomass production. As much as 90%! (and as little as 20%)
 - 549 129 kg of CO2 reduced for every m³ of biomass converted to biogas!
 - 549 other environmental effects are possible, but can be easily mitigated (NOx emissions, nutrient emissions, odors, etc.)
 - 550 photolysis exists, but better if biology is used for photolysis
 - 550 in many cases, making fossil fuels 'cleaner', like coal to gas, creates more emissions.
 - 550 methane could be synthesized in sites of coal mining by directly converting the carbon to methane and water. Lurgi fixed-bed gasifier and Keppers-Totzek gasifier; both have low efficiencies
 - Fig 4.123 making synthetic natural gas using coal
-- 552 equivalenc ratio is ratio of oxygen available to oxygen that would have allowed complete combustion
+- 552 equivalence ratio is ratio of oxygen available to oxygen that would have allowed complete combustion
 - 552 0.1 and less equivalence ratio is pyrolysis; inefficient
 - 552 0.2 to .4 equivalence ratio is gasification; max energy transferred into gas
 - 554 turning wood to biogas: updraft not ideal; downdraft better; fluidized superior for large scale
-- 554 wood gasification produces ash, char, liquid wastewater, and tar. Char can be recyled in gasifier. Ash and tar can be used in road building
+- 554 wood gasification produces ash, char, liquid wastewater, and tar. Char can be recycled in gasifier. Ash and tar can be used in road building
 - 555 ethanol produced by yeast fermentation on glucose; ethanol continuously removed when concentration reaches 12%
 - 555 hydrolysis can be used to reduce other stuff going into fermentation
 - 555 theoretical max of glucose-to-ethanol conversion is 97%, but realistically only 25%
 - 556 food oils readily burn in diesel engines
-- 556 using crops foir fuel oil interferes with food production, except palm oil; palm oil can help with other crops if intercropping done
+- 556 using crops for fuel oil interferes with food production, except palm oil; palm oil can help with other crops if intercropping done
 - 556 places where food trees can't be grown could grow fuel oil trees
-- 556 rubber is hyrocarbon-water emulsion, with lot of hydrocarbon; latex has slightly lower molecular weight, and can yield diesel fuel
-- 556 sterols in gopher plant (50%) can be feedstocks to replace petroleum in chemical applications
+- 556 rubber is hydrocarbon-water emulsion, with lot of hydrocarbon; latex has slightly lower molecular weight, and can yield diesel fuel
+- 556 sterols in gopher plant (50%) can be feedstock to replace petroleum in chemical applications
 - 556 hydrocarbon could be produced from plants, but research is not super optimistic
 - 557 cost of ethanol from bio is equal to gasoline
 - 557 lignin provides structural rigidity, such as wood and straw. Has to be broken down for bioenergy.
@@ -595,8 +599,8 @@ PDF 579 = 570 actual
 - 583 Super conductors (niobium, niobium-tin) could be used for ultra long distance DC
 - 583 Even with super conductors, AC has losses due to electromagnetic field variation
 - 584 Natural gas distribution lines made of plastic use 103 kPa to 400 kPa. Steel ones use 5 to 8 MPa. These lines can also transfer hydrogen if valves are upgraded
-- 585 fossil fuel and nuclear power plants have long start-up times, whereas pumped water has satrt up time of less than a minute
-- 586 For storing and distributing energy as heated water in a home, 45 to 50°C is good for water-filled radiators, and 25 to 30°C for heated flooring and vetilation.
+- 585 fossil fuel and nuclear power plants have long start-up times, whereas pumped water has start up time of less than a minute
+- 586 For storing and distributing energy as heated water in a home, 45 to 50°C is good for water-filled radiators, and 25 to 30°C for heated flooring and ventilation.
 - 587 0.3 m³ water storage tank is sufficient for storing heat for daily fluctuations in single family home
 - 588 Adding more solar collectors for water heating produces less and less gains in energy collected
 - 591 large warm water tanks (5 m to 20m radius) can be kept uninsulated if heat storage of few days is needed; otherwise insulation required
@@ -610,7 +614,7 @@ PDF 579 = 570 actual
 - 598 surface area for air ca be increased by using granular storage material
 - 598 advection = moving entire fluid. convection = turbulent transport
 - 598 liquid sodium is very conductive, and acts as both heat storage and transport; serious safety problem. Used in solar collectors and nuclear breeder reactors, with storage temps of 275°C and 530°C.
-- 598 equation for ganular mass diameter
+- 598 equation for granular mass diameter
 - 599 Table 5.1 heat capacity, range, and conductivity of some materials
 - 599 optimum particle diameter for granular heat storage is few centimeters and void diameter of 0.5
 - 600 energy can be stored in phase transitions. These could be simple structural changes such as solid sulfur changing crystalline forms, or lithium sulfate storing a lot of energy. Hydrates can also be used which allows higher latent heat capacities (see Table 5.2 and 5.3)
@@ -629,7 +633,7 @@ PDF 579 = 570 actual
 - 609 reversible storages have much lower volumetric energy density than solid/liquid fossil fuels
 - 611 hydro storage (dams) can be used to store energy of intermittent wind/solar
 - 611 artificial reservoirs can be made for storing hydropower
-- 611 artifical reservoirs can cover up to 24 hours, but natural ones can cover a whole year
+- 611 artificial reservoirs can cover up to 24 hours, but natural ones can cover a whole year
 - 611 if overhead reservoirs not possible, underground can be made
 - 613 large heads use Francis and Pelton turbines; these have 0.95 efficiency for strong flows, but 0.8 for decreasing flows.. Small heads use Kaplan or Nagler. Francis can be multistage, where efficiency is 0.7. Changing from pumping to generating takes about 1 minute.
 - 613 for underground stores, cost scales about linearly with capacity
@@ -637,7 +641,7 @@ PDF 579 = 570 actual
 - 5.5.1 talks about flywheel mathematics
 - Equation 5.23 gives the optimal disc thickness for constant stress flywheel: it is infinitely extending and exponentially declining in thickness.
 - 618 tangential stress in flywheel is highest in inner rim
-- Equation 5.32 describes the shape for a miximum stress and storage density. Using this, the maximum angular velocity can be found.
+- Equation 5.32 describes the shape for a maximum stress and storage density. Using this, the maximum angular velocity can be found.
 
 - 619 infinite flywheel isn't possible, so has to be truncated, leading to shape factor of 0.8.
 - 619 low material cost is key factor for flywheels
@@ -650,10 +654,10 @@ PDF 579 = 570 actual
 - 621 small scale compressed gas storage can be done in steel containers
 - 622 larger scale compressed gas storage can be done in salt deposits (flushed with water), rock cavities (natural or excavated), and aquifiers (regions above the water). See Fig 5.19
 - 622 in all underground compressed gas cases, cavities ability for storage is not fully known until after installation
-- 623 air-aquifier/water case could be viable as it does both compressed gas + lifting hydro storage
+- 623 air-aquifer/water case could be viable as it does both compressed gas + lifting hydro storage
 - 624 pressure difference for compressed air can be up to 70×, and reach temperatures of 1000 K, so cooling needed; heat can be moved to thermal energy storage
 - 624 compressed air loss is 5 to 10% due to compression, and more from heat. Overall cycle efficiency is less than 65%, unless thermal loss can be less than 10%
-- 629 aquifier type compressed air storage has to have high permeability to fill and unfill. Permeability at the borders however causes leaks.
+- 629 aquifer type compressed air storage has to have high permeability to fill and unfill. Permeability at the borders however causes leaks.
 - 629 loss from pressure is 15% + losses from machinery
 
 - 629 hydrogen gas produced by methane/gasoline + H₂O at 850°C, 2.5 MPa under catalyst. typical process
@@ -680,7 +684,7 @@ PDF 579 = 570 actual
 - 640 " If many household appliances become battery operated, the stringent requirements placed upon the electricity system to meet peak loads may become less burdensome"
 - 640 "Freedom from having to always be near an electric plug to use power equipment is seen as a substantial consumer benefit, which many people are willing to pay a premium price for."
 
-- 641 Supercapicators can be used to smooth out energy fluctuations using rapid charge/discharge
+- 641 Supercapacitors can be used to smooth out energy fluctuations using rapid charge/discharge
 - 642 reaction of using metal to convert CO₂ + H₂O into methanol using light also favors reverse reaction very readily because of close proximity of reactants+products, and both reactions are similar
 - 642 if using photochemical reaction, would be beneficial to separate reactants and products using charge or hydrophilia
 - 643 photo-induced chemical reactions have same limitations as photovoltaic cells due to limited light absorption range
@@ -707,9 +711,9 @@ PDF pages is 7 pages ahead than actual page number
 - 660 transmission times can be included as simple constant delays
 - 660 dispatch optimization = how to best use the system at hand
 - 660 second way of system optimization is system layout = what structure of conversion systems should/can be changed
-- 6.2.1 describes potential scenarios in final energy use (non-quantitive = precursor scenario)
+- 6.2.1 describes potential scenarios in final energy use (non-quantitative = precursor scenario)
 - 663 Catastrophe precursor scenario includes: "In this scenario, there would be a decreased number of people trained in skills necessary for participating in international industrial and service developments, and the opportunity to import people with these intellectual skills would have been lost by the imposition of immigration policy unfavorable to precisely the regions of the world producing a surplus of people with technical and related creative high-level education."
-- 6.2.2.1 Laisser-faire precursor senario actually _reduces_ energy efficiencies and progress
+- 6.2.2.1 Laissez-faire precursor scenario actually _reduces_ energy efficiencies and progress
 - 6.2.2.2 Rational investment precursor scenario is only partially used in our current age
 - 665 average efficiencies over groups of related equipment can be extrapolated reliably
 
@@ -747,7 +751,7 @@ PDF pages is 7 pages ahead than actual page number
 - 709 offshore wind speed measured by using satellite data, measuring the reflected radar signal; these reflections are modified by the wave ripples on ocean, and those are affected by wind
 - 710 surface wind info is taken to get wind info at higher heights and also use for wind turbine characteristics
 - Fig 6.32 overview of biomass
-- Fig 6.33 and 6.44 shows global cropland and rangeland map, and 6.45 is forests. 6.46 shows marginal land. As of 2000s
+- Fig 6.33 and 6.44 shows global cropland and rangelands map, and 6.45 is forests. 6.46 shows marginal land. As of 2000s
 - 721 changing meat to vegetable ratio is sufficient to use biomass for energy without risking food shortage for growing population
 - 721 most African places don't use cropland for feeding livestock
 - Table 6.7 shows biomass growth capability due to several factors
@@ -767,15 +771,15 @@ PDF pages is 7 pages ahead than actual page number
 - 736 if heat supplied by: water, then 45°C minimum; air, then 28°C minimum
 - Fig 6.47 Solar heat system with switching heat pump between store, load, and collector
 - 739 making low-temp side of heat pump during storage mode be soil or air, it becomes an independent energy source
-- 739 using heat pump to lower solar collector temp is unsutable
-- 745 in general, 6.5.1.5-7 basically states that, attempting to provide heating to individual buildings with their own PVT does not satisfy the building's heat demand. Small 2 m² solar system never covers energy need, medium covers about 2 months, and large 40 m² covers about 5 months. In general, the larger the system, the better it is. Even if auxiliray power needed in winter, some energy needs still met by PVT.
+- 739 using heat pump to lower solar collector temp is unsuitable
+- 745 in general, 6.5.1.5-7 basically states that, attempting to provide heating to individual buildings with their own PVT does not satisfy the building's heat demand. Small 2 m² solar system never covers energy need, medium covers about 2 months, and large 40 m² covers about 5 months. In general, the larger the system, the better it is. Even if auxiliary power needed in winter, some energy needs still met by PVT.
 - Fig 6.58 shows PVT supply-demand stats for the 'large' PVT system. There's more energy generated in brighter months. 1 to 2 month delay between peak solar input and peak energy output
 
 - Fig 6.66 when heat pump is added to large PVT, no aux power needed
 - 754 wind turbines over land have 4× more max peaks than average; off shore has 2.3×
 - 759 coupling just 3 wind units is similar as coupling 18 wind turbine units in country like Germany since large variations appear all throughout the country. Distances of over 1000 km are needed to tune our low frequency wind fluctuations
 - 760 fossil fuel generators take time to start. If time elapsed since last stop is short, then not lot of time is taken to start again: generally 1 to 5 hours. If starting after long time, then over 5 hours, with same taking 2 days
-- 760 metereological forecasts can't do exact wind estimates, but can predict storms
+- 760 meterological forecasts can't do exact wind estimates, but can predict storms
 - 762 simple predictions such as 'high wind' etc. is feasible, especially with previous wind data within a couple of hours
 - 763 to maintain balance between wind and fossil, different fossil units operate at different capacities, and can be brought up or down to match wind. If too much down needed, then one fossil stopped and other fossil increased. No more than 1 fossil unit stopped in any given hour to minimize challenges with sudden loss of wind
 - 763 if wind is in severe deficit, then peak-load units needed: storage, hydro, gas turbines, electricity import, etc., which have fast start ups
@@ -785,7 +789,7 @@ PDF pages is 7 pages ahead than actual page number
 - 768 wind forecasting for power is good for 1 to 2 days
 
 - 771 high storage-cycle efficiency achievable via flywheel storage, pumped hydro storage, and superconducting storage. These are needed for short-term stores.
-- 771 setting wind up for peak-load has benefit of being able to pre-emptively charge for peak, and displace peak-load fossil units which are expensive
+- 771 setting wind up for peak-load has benefit of being able to preemptively charge for peak, and displace peak-load fossil units which are expensive
 - 773 "modest storage leads to a substantial improvement in availability, but
   improvements above availabilities of 75%-80% come much more slowly and
   require storage sizes that can no longer be characterized as short-term stores"
@@ -806,12 +810,12 @@ PDF pages is 7 pages ahead than actual page number
 - Fig 6.89 on-shore vs off-shore wind-power production in Northern countries. Off shore significantly better.
 - Fig 6.90 power duration curves for northern european countries.
 
-- 791 in Meditarranean region, fixed horizontal solar panels works as well as tilted panels
+- 791 in Mediterranean region, fixed horizontal solar panels works as well as tilted panels
 - 792 African Mediterranean countries could export solar
 - Fig 6.95 and 6.96 different solar placement (roof vs centralized) in Mediterranean region
-- 795 in Meditarranean, annual solar is more than adequate, but storage needed for winter months for heating
-- 795 some Meditarreanean countries have lots of land for solar, while others not; wind can be used to make up for deficit
-- Fig 6.103 vs 102 shows that northern Meditarreanean countries have more wind potential than African ones, but still have MASSIVE surplus due to solar
+- 795 in Mediterranean, annual solar is more than adequate, but storage needed for winter months for heating
+- 795 some Mediterranean countries have lots of land for solar, while others not; wind can be used to make up for deficit
+- Fig 6.103 vs 102 shows that northern Mediterranean countries have more wind potential than African ones, but still have MASSIVE surplus due to solar
 - Fig 6.105 potential power grid connections for Mediterranean Saharan export
 - 801 In Mediterranean, potential exists for biofuels from waste food etc. especially France
 - 801 Biomass less expensive than battery or fuel cell vehicles, but still has pollution (Mediterranean, also old data)
@@ -825,7 +829,7 @@ PDF pages is 7 pages ahead than actual page number
 - 819 Japan has high frequency of clouds that diminish solar. Also SK + Japan suffer from high population density
 - 819 Japan and SK has good wind
 - 824 "efficiency is an established virtue in the South-East Asia region"
-- 824 "the efficiency of charging batteries and delivering traction energy to wheels by an electric motor is higher than the efficiency of hydrogen production by electroly-sis and subsequent fuel cell operation, but the gap may narrow with time."
+- 824 "the efficiency of charging batteries and delivering traction energy to wheels by an electric motor is higher than the efficiency of hydrogen production by electrolysis and subsequent fuel cell operation, but the gap may narrow with time."
 - 824 hydrogen preferred for SK+Japan due to greater need for long term storage
 - Fig 6.143 SK+Japan renewable energy input chart
 - 825 China just has lots of renewables: solar in south; wind (on shore) in west high country, northeast belt from Mongolia to sea, and entire coast; great offshore due to shallow waters; great hydro; great agricultural lands. However, not evenly spaced resource: see fig 6.149
@@ -852,7 +856,7 @@ PDF 860 = book 853
 - 868 "For the individual, who has a limited life span, this attitude (of having something in the present be valued more than having it later) seems very reasonable. But for a society, it is difficult to see a justification for rating the present high- er than the future. New generations of people will constitute the society in the future, and placing a positive interest on the measures of value implies that the “present value” (7.7 below) of an expense to be paid in the future is lower than that of one to be paid now " ... " This places an energy system requiring an amount of nonrenewable fuels to be converted every year in a more favorable position than a renewable energy system demanding a large capital investment now. "
 - 868 "A positive interest rate tends to make it more attractive, when possible, to leave the wastes to future management, because the present value of even a realistic evaluation of the costs of future treatment is low "
 - Fig 7.2 practically showcases that renewables win in terms of cost
-- 877 life cycle assesments can be done, but hard because techniques often determine how much energy and pollution
+- 877 life cycle assessments can be done, but hard because techniques often determine how much energy and pollution
 - 877 energy provided by a system should subtract the energy that was used to make that system in the first place
 - Fig 7.3 sketches energy needs and outputs of renewable vs fuel-based system
 
@@ -869,12 +873,14 @@ PDF 860 = book 853
 - 885 many government funds for research is often dual-purpose support, such as offering energy people with military/space tech; the optimality of this is not well defined
 - 885 subsidy policy has to be done right. Introduction of wind power in 1975 via subsidies failed in many countries.
 - 888 in general, early privatization of energy sector led to poorer service, higher prices, and low development efforts
-- 888 to combat challenges with privatilation, power industry separated into producers/transmitters/distributors, and additional legislation imposed
+- 888 to combat challenges with privatization, power industry separated into producers/transmitters/distributors, and additional legislation imposed
 - 890 "the only possible solution to such concerns is to surround the energy supply sector with so much regulation that the owners of the production and grid system do not have any room left to maneuver—in which case it would be simpler to retain public ownership."
 
 ### Life cycle analysis/assessment
 
-- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political.
+Page conversion: 911 pdf is 904 in the book 
+
+- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political. 
 - 7.3.1 talks about how to do life-cycle analysis
 - 894 "impacts found in the literature are normally divided into direct and indirect, and the indirect ones are distributed over their origin"
 - 894 In general, be careful of double counting! Especially for indirect costs!
@@ -886,8 +892,70 @@ PDF 860 = book 853
 - 902 for rare events, "probability" is a wrong word
 - 7.3.1.3 talks about how to do probabilistic calculations for accidents like air pollution
 - 903 studies should consider more than just creation of the technology: should consider short, medium, and long term effects. Also should consider social and spatial effects.
-- 905 assesments for planning uses state-of-art technology normally, but problematic because many places still prefers using old tech
+- 905 assessments for planning uses state-of-art technology normally, but problematic because many places still prefers using old tech
 - 905 this page has a list of issues for considering the setting
 - 906 "No one demands energy, but we demand transportation, air conditioning, computing, entertainment, and so on."
 - 907 Damage can be monetized by substituting how much it would cost for the damage (e.g. hospitalization cost)
 - 909 most people are not willing to pay for environmental damage or long term health costs, but are for avoiding accidents
+- 909 SVL = Statistical Value of Life
+- 909 European Commission assigned 0.3 to 16 M euros per death
+- 909 Denmark SVL is about 1.25 M US$
+- 909 "cost to society, it may be argued that no discount should take place, because society does not set money aside for future salary payments"
+- 909 "the total amount of salaries involved is not fixed, because salaries are influenced by the level of unemployment"
+- 909 SVL can be performed by considered how much could have been earned by working (assuming equal distribution of work) or a society member's value above their ability to do work. Latter makes sense because we pay for health services for retired people
+- 910 Challenge with SVL is that earnings can differ by region in terms of earnings
+- 910 SVL is seen as a political tool
+- 911 Considering human damage while performing LCA requires knowing pathway of pollutants and accidents leading to health damage: "pathway method"
+- Page 911-913 talks about how the pathway method is performed
+	- Equipment employed in life-cycle step (creation, use, decommission) should also be considered 
+- 914 Summation of devices take place at the very end in a systemic LCA
+- 915 For pollution, linear dose function typically used
+- 915 Often industry pressures regulation to have a threshold for pollution under which there is no effect
+- 916 Some LCA studies assume new installations as addition to existing system (like from a reference); this approach is not valid for future systems
+- 916 "decision-makers understand monetary impacts better than physical ones"
+- 916 "translation into monetary values, however it is done, loses part of the message"
+- 917 "decision-makers should not be exposed to the monetizing simplification unless it preserves their possibility of making a fair assessment"
+- Figure 7.11 shows an impact profile: to be used when comparing two systems.  Figure 7.12 shows a more detailed version
+- Pg 920 lists a summary of steps for life-cycle analysis, assessment, and political undertakings
+- 921 sulfur dioxide has much shorter residence time of about a week
+- 921 carbon dioxide has a residence time of 80–120 years
+- 922 "the statements published by IPCC on life-cycle impacts and mitigation options have been increasingly politically biased since the 1997 change of the working group compositions from independent
+scientists to people selected by national governments.
+- 923 "this book predicts a 1.6°C global average warming relative to 1990 by 2050 and a 3.0°C warming by 2100". This is an interesting statement. Currently, we are headed to 1.5°C cross over by 2030 and 4°C by 2100.
+- 925 very young (below 4) and old (above 75) are most vulnerable to heat waves
+- 926 Figure 7.17 shows mortality factor: how maximum daily temperature changes probability of death
+	- Different locations have identical shapes, but there is a horizontal shift 
+- 927 being under shelter helps tolerate temperature extremes, but quality of shelter is dependent on historic climate: Spanish suffer more from cold than people of Norway because Spanish buildings are less insulating
+- 927 adaptation by living in a region for over 1000 years
+- Figure 7.20 shows how mortality factor changes each month globally.  Overall, people near the equator are more likely to die (especially India, sub-Saharan Africa, South America, and Australia)
+- 935 death certificates with cause of death is becoming and should become less common since cause of death can be very arbitrary. Multiple causes are rarely mentioned.
+- 935 more people live than die from increased climate temperature, but unfairly:
+	- 935 "from a moral point of view, it is worrisome that the additional deaths occur in countries contributing only little to the green-house gas emissions, while the saved deaths occur precisely in the countries most responsible for the greenhouse emissions."
+- 935 "likely that human populations may adapt to changes in mean temperature, as opposed to adaptation to extreme events"
+- 936 "Hot weather can damage certain crops, and so will dry spells and wildfires, insect attacks will increase, and water supply may become reduce"
+- 936 wildlife diversity decreases since migration is difficult due to human built environments
+- 937 "One should remember that malaria was widespread in Europe a few centuries ago, but largely disappeared along with general socioeconomic development."
+- 938 global warming generally lowers stability of climates
+- Table 7.2 shows some monetary values associated with death and disease
+- Comparing Tables 7.5 (coal plant) and 7.6 (nuclear plant), and accounting for accidents, a coal plant's negative consequences, monetized, is 0.1228 euros per kWh produced; for nuclear, it is 0.012 euros per kWh. Therefore, coal plant costs about 10 times more in terms of negative health effects than nuclear. This ratio is also obtained when comparing to 7.7, a French nuclear power plant.
+- 949 "impacts of proliferation of nuclear materials and know-how have not been quantified."
+- 949 although modern nuclear reactors are technically much safer than older ones, the Fukushima accident involved improper staff procedures, slack on the reactor manufacturer, and incorrect estimates by licensing authorities; populations surrounding nuclear plants are also not typically instructed on what to do during accident
+- Using Table 7.8 (wind) and comparing it to Table 7.5 (coal plant), I get a ratio of 42 for negative monetized experienced
+- 951 most manufacturing effort for PV is the silicon; mining sand and quartzite has a risk of silicosis. However, a quick online search shows that risk factors are building demolition and construction, sandblasting, pottery, glassmaking, etc (actual PV process not included).
+- 952 making solar-grade material is cheaper and less harmful to health than microelectronics silicon
+- Using Table 7.9B (solar) and comparing it to Table 7.5 (coal plant), I get a ratio of 53 for negative monetized impacts
+- 959 "General use of industrial biomass waste should only be permitted if there are no significant residues of heavy metals in the slurry."
+- Tables 7.13 and 7.14 does LCA on underground hydrogen storage
+
+## Chapter 8: Integrated Approaches
+
+Pages are off by 5: Page 971 on pdf in 964 in the book.
+- 970 "The excess greenhouse warming caused by anthropogenic emissions related to fossil-fuel use has finally started to get political attention, after 50 years of scientific warnings"
+- 970 Existing political agreements have no consequences for not meeting targets
+- 976 "Developing countries may complain that the scheme does not allow them to increase their emissions to American levels before doing something about the problem, but that is precisely the intent: they will move directly toward the stable situation without detours that may form bad habits clouding their future efforts". This is particularly interesting because Bent Sorensen talked about this several years ago in this book, and recently Simon Clark released a [video](https://www.youtube.com/watch?v=BPqR9jy6C3U) on how, indeed, this is the case for India.
+- 976 avoiding overpopulation is, generally, a good target to have anyway
+- 977 "global warming damage is a perfect example of the need to base political action on more than antiquated economic dogmas [of 'market knows best']" 
+- 977 We have not identified all consequences of greenhouse warming
+- 982 "Technical feasibility, decent prices, and general public acceptance seem insufficient to persuade policy makers and the industrial lobby in many parts of the world. What additional arguments should be brought forward? Air pollution, green-house gas emissions, fossil resource exhaustion, nuclear accidents, and radioactive waste have all in some measure failed to affect actual political decisions, although few would disagree that these are problems “in the long run.”"
+- 982 "the rules of the marketplace have to be more fundamentally changed to include long-term human interests if the market is to become a level playing field"
+
