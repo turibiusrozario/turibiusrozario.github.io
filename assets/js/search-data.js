@@ -162,6 +162,11 @@ ninja.data = [{
           description: "",
           section: "Notes",handler: () => {
               window.location.href = "/notes/BU_ME519/";
+            },},{id: "notes-impact-networks",
+          title: 'Impact Networks',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/ehrlichman_impact_networks/";
             },},{id: "projects-cube-3000",
           title: 'Cube 3000',
           description: "Oversized fidget cube that also vibrates.",
