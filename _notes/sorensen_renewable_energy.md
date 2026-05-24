@@ -15,7 +15,7 @@ finished: 2026-05-11
 # year: 2025
 stars: 5
 # goodreads_review: 6318556633
-status: Reading
+status: Finished
 ---
 
 This has been one of the most thorough yet broad books on Renewable Energy that I have read. It is written in a very technical and fundamental science lens which gives it a lot of potential. Do be warned that this is a _very hard_ read.
