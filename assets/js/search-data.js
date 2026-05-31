@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-useful-linux-applications",
+        },{id: "post-my-meal-plan",
+        
+          title: "My Meal Plan",
+        
+        description: "My food plan for frugal freegan graduate students",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/meal_plan/";
+          
+        },
+      },{id: "post-useful-linux-applications",
         
           title: "Useful *Linux* Applications",
         
