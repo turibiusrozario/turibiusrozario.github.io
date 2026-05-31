@@ -878,9 +878,9 @@ PDF 860 = book 853
 
 ### Life cycle analysis/assessment
 
-Page conversion: 911 pdf is 904 in the book 
+Page conversion: 911 pdf is 904 in the book
 
-- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political. 
+- 890 LCA = Life cycle analysis/assessment. Analysis is scientific and technical. Assessment is political.
 - 7.3.1 talks about how to do life-cycle analysis
 - 894 "impacts found in the literature are normally divided into direct and indirect, and the indirect ones are distributed over their origin"
 - 894 In general, be careful of double counting! Especially for indirect costs!
@@ -907,7 +907,7 @@ Page conversion: 911 pdf is 904 in the book
 - 910 SVL is seen as a political tool
 - 911 Considering human damage while performing LCA requires knowing pathway of pollutants and accidents leading to health damage: "pathway method"
 - Page 911-913 talks about how the pathway method is performed
-	- Equipment employed in life-cycle step (creation, use, decommission) should also be considered 
+  - Equipment employed in life-cycle step (creation, use, decommission) should also be considered
 - 914 Summation of devices take place at the very end in a systemic LCA
 - 915 For pollution, linear dose function typically used
 - 915 Often industry pressures regulation to have a threshold for pollution under which there is no effect
@@ -915,22 +915,22 @@ Page conversion: 911 pdf is 904 in the book
 - 916 "decision-makers understand monetary impacts better than physical ones"
 - 916 "translation into monetary values, however it is done, loses part of the message"
 - 917 "decision-makers should not be exposed to the monetizing simplification unless it preserves their possibility of making a fair assessment"
-- Figure 7.11 shows an impact profile: to be used when comparing two systems.  Figure 7.12 shows a more detailed version
+- Figure 7.11 shows an impact profile: to be used when comparing two systems. Figure 7.12 shows a more detailed version
 - Pg 920 lists a summary of steps for life-cycle analysis, assessment, and political undertakings
 - 921 sulfur dioxide has much shorter residence time of about a week
 - 921 carbon dioxide has a residence time of 80–120 years
 - 922 "the statements published by IPCC on life-cycle impacts and mitigation options have been increasingly politically biased since the 1997 change of the working group compositions from independent
-scientists to people selected by national governments.
+  scientists to people selected by national governments.
 - 923 "this book predicts a 1.6°C global average warming relative to 1990 by 2050 and a 3.0°C warming by 2100". This is an interesting statement. Currently, we are headed to 1.5°C cross over by 2030 and 4°C by 2100.
 - 925 very young (below 4) and old (above 75) are most vulnerable to heat waves
 - 926 Figure 7.17 shows mortality factor: how maximum daily temperature changes probability of death
-	- Different locations have identical shapes, but there is a horizontal shift 
+  - Different locations have identical shapes, but there is a horizontal shift
 - 927 being under shelter helps tolerate temperature extremes, but quality of shelter is dependent on historic climate: Spanish suffer more from cold than people of Norway because Spanish buildings are less insulating
 - 927 adaptation by living in a region for over 1000 years
-- Figure 7.20 shows how mortality factor changes each month globally.  Overall, people near the equator are more likely to die (especially India, sub-Saharan Africa, South America, and Australia)
+- Figure 7.20 shows how mortality factor changes each month globally. Overall, people near the equator are more likely to die (especially India, sub-Saharan Africa, South America, and Australia)
 - 935 death certificates with cause of death is becoming and should become less common since cause of death can be very arbitrary. Multiple causes are rarely mentioned.
 - 935 more people live than die from increased climate temperature, but unfairly:
-	- 935 "from a moral point of view, it is worrisome that the additional deaths occur in countries contributing only little to the green-house gas emissions, while the saved deaths occur precisely in the countries most responsible for the greenhouse emissions."
+  - 935 "from a moral point of view, it is worrisome that the additional deaths occur in countries contributing only little to the green-house gas emissions, while the saved deaths occur precisely in the countries most responsible for the greenhouse emissions."
 - 935 "likely that human populations may adapt to changes in mean temperature, as opposed to adaptation to extreme events"
 - 936 "Hot weather can damage certain crops, and so will dry spells and wildfires, insect attacks will increase, and water supply may become reduce"
 - 936 wildlife diversity decreases since migration is difficult due to human built environments
@@ -950,12 +950,12 @@ scientists to people selected by national governments.
 ## Chapter 8: Integrated Approaches
 
 Pages are off by 5: Page 971 on pdf in 964 in the book.
+
 - 970 "The excess greenhouse warming caused by anthropogenic emissions related to fossil-fuel use has finally started to get political attention, after 50 years of scientific warnings"
 - 970 Existing political agreements have no consequences for not meeting targets
 - 976 "Developing countries may complain that the scheme does not allow them to increase their emissions to American levels before doing something about the problem, but that is precisely the intent: they will move directly toward the stable situation without detours that may form bad habits clouding their future efforts". This is particularly interesting because Bent Sorensen talked about this several years ago in this book, and recently Simon Clark released a [video](https://www.youtube.com/watch?v=BPqR9jy6C3U) on how, indeed, this is the case for India.
 - 976 avoiding overpopulation is, generally, a good target to have anyway
-- 977 "global warming damage is a perfect example of the need to base political action on more than antiquated economic dogmas [of 'market knows best']" 
+- 977 "global warming damage is a perfect example of the need to base political action on more than antiquated economic dogmas [of 'market knows best']"
 - 977 We have not identified all consequences of greenhouse warming
 - 982 "Technical feasibility, decent prices, and general public acceptance seem insufficient to persuade policy makers and the industrial lobby in many parts of the world. What additional arguments should be brought forward? Air pollution, green-house gas emissions, fossil resource exhaustion, nuclear accidents, and radioactive waste have all in some measure failed to affect actual political decisions, although few would disagree that these are problems “in the long run.”"
 - 982 "the rules of the marketplace have to be more fundamentally changed to include long-term human interests if the market is to become a level playing field"
-
