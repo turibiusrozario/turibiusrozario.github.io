@@ -50,8 +50,15 @@ upon connecting the 25 V battery, it shorted:
     in a 6S LiPo battery was enough to go over the air gap for a short.
 </div>
 
-After some repairs, this was flight ready. Here's a footage of one of the
-flights (I let someone else fly it):
+After some repairs, this was flight ready. 
+
+Here's one of the chase footages with DT-FB:
+<video controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/edkNFpAJX3D9Pn6/preview">
+<source
+    src="https://alexandria.turibiusrozario.com/s/edkNFpAJX3D9Pn6/download" type="video/mp4">
+</video>
+
+Here's a footage of another flight by someone else:
 
 <video controls preload="metadata" width="100%" poster="https://alexandria.turibiusrozario.com/s/8Sf4DmtxXqsp8wc/preview">
 <source
