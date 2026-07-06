@@ -15,7 +15,7 @@ finished: 2026-05-24
 # year: 2025
 stars: 3
 # goodreads_review: 6318556633
-status: Read
+status: Finished
 ---
 
 Impact Networks is a book on creating networks for positive social changes. This is different from hierarchical structures such as most companies and project teams. I was recommended this book and overall appreciated the insights. The challenge is that many of the things require _practice_. This is something we need to do on our own. I would still recommend this book for anyone trying to create community for positive actions.
