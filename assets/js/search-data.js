@@ -178,6 +178,11 @@ ninja.data = [{
           description: "",
           section: "Notes",handler: () => {
               window.location.href = "/notes/ehrlichman_impact_networks/";
+            },},{id: "notes-social-entrepreneurship",
+          title: 'Social Entrepreneurship',
+          description: "",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/praszkier_nowak_social_entrepreneurship/";
             },},{id: "projects-cube-3000",
           title: 'Cube 3000',
           description: "Oversized fidget cube that also vibrates.",
